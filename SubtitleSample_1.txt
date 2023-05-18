@@ -1,0 +1,4690 @@
+[
+  {
+    "from": 0.12,
+    "to": 0.54,
+    "sid": 1,
+    "location": 2,
+    "content": "大家好",
+    "music": 0
+  },
+  {
+    "from": 0.54,
+    "to": 2.19,
+    "sid": 2,
+    "location": 2,
+    "content": "我是up主智能路障",
+    "music": 0
+  },
+  {
+    "from": 2.19,
+    "to": 4.35,
+    "sid": 3,
+    "location": 2,
+    "content": "最近南方周末采访的我",
+    "music": 0
+  },
+  {
+    "from": 4.35,
+    "to": 6.84,
+    "sid": 4,
+    "location": 2,
+    "content": "主题是有关游戏和文化传承的",
+    "music": 0
+  },
+  {
+    "from": 6.84,
+    "to": 8.68,
+    "sid": 5,
+    "location": 2,
+    "content": "我洋洋洒洒回答了一大堆",
+    "music": 0
+  },
+  {
+    "from": 8.68,
+    "to": 10.15,
+    "sid": 6,
+    "location": 2,
+    "content": "但报纸版面有限",
+    "music": 0
+  },
+  {
+    "from": 10.15,
+    "to": 11.68,
+    "sid": 7,
+    "location": 2,
+    "content": "最后只有部分初看了",
+    "music": 0
+  },
+  {
+    "from": 11.68,
+    "to": 12.7,
+    "sid": 8,
+    "location": 2,
+    "content": "感觉挺可惜的",
+    "music": 0
+  },
+  {
+    "from": 12.7,
+    "to": 14.86,
+    "sid": 9,
+    "location": 2,
+    "content": "所以再出个视频好好聊聊这个事",
+    "music": 0
+  },
+  {
+    "from": 14.86,
+    "to": 16.259,
+    "sid": 10,
+    "location": 2,
+    "content": "我先抛出一个暴论啊",
+    "music": 0
+  },
+  {
+    "from": 16.259,
+    "to": 17.999,
+    "sid": 11,
+    "location": 2,
+    "content": "我觉得未来再也诞生不了",
+    "music": 0
+  },
+  {
+    "from": 17.999,
+    "to": 20.399,
+    "sid": 12,
+    "location": 2,
+    "content": "比游戏更先进的文化传播媒介了",
+    "music": 0
+  },
+  {
+    "from": 20.399,
+    "to": 21.46,
+    "sid": 13,
+    "location": 2,
+    "content": "1911年",
+    "music": 0
+  },
+  {
+    "from": 21.46,
+    "to": 23.77,
+    "sid": 14,
+    "location": 2,
+    "content": "意大利人卡努杜发表了一篇文章",
+    "music": 0
+  },
+  {
+    "from": 23.77,
+    "to": 25.5,
+    "sid": 15,
+    "location": 2,
+    "content": "名为第七艺术宣言",
+    "music": 0
+  },
+  {
+    "from": 25.5,
+    "to": 28.62,
+    "sid": 16,
+    "location": 2,
+    "content": "把电影这个刚诞生的新鲜事物称之为艺术",
+    "music": 0
+  },
+  {
+    "from": 28.62,
+    "to": 29.52,
+    "sid": 17,
+    "location": 2,
+    "content": "和建筑",
+    "music": 0
+  },
+  {
+    "from": 29.52,
+    "to": 31.2,
+    "sid": 18,
+    "location": 2,
+    "content": "音乐绘画雕塑",
+    "music": 0
+  },
+  {
+    "from": 31.2,
+    "to": 33.2,
+    "sid": 19,
+    "location": 2,
+    "content": "诗歌舞蹈相提并论",
+    "music": 0
+  },
+  {
+    "from": 33.2,
+    "to": 35.3,
+    "sid": 20,
+    "location": 2,
+    "content": "当时的电影都是瞎鸡儿拍的",
+    "music": 0
+  },
+  {
+    "from": 35.3,
+    "to": 36.56,
+    "sid": 21,
+    "location": 2,
+    "content": "情节七拼八凑",
+    "music": 0
+  },
+  {
+    "from": 36.56,
+    "to": 39.02,
+    "sid": 22,
+    "location": 2,
+    "content": "为啥卡鲁多还会提出这样的理论呢",
+    "music": 0
+  },
+  {
+    "from": 39.02,
+    "to": 41.26,
+    "sid": 23,
+    "location": 2,
+    "content": "他认为基本艺术只有两个",
+    "music": 0
+  },
+  {
+    "from": 41.26,
+    "to": 42.43,
+    "sid": 24,
+    "location": 2,
+    "content": "就是建筑和音乐",
+    "music": 0
+  },
+  {
+    "from": 42.43,
+    "to": 43.42,
+    "sid": 25,
+    "location": 2,
+    "content": "绘画雕刻",
+    "music": 0
+  },
+  {
+    "from": 43.42,
+    "to": 44.98,
+    "sid": 26,
+    "location": 2,
+    "content": "那只是建筑的补充",
+    "music": 0
+  },
+  {
+    "from": 44.98,
+    "to": 46.84,
+    "sid": 27,
+    "location": 2,
+    "content": "诗歌只是语言的提高",
+    "music": 0
+  },
+  {
+    "from": 46.84,
+    "to": 48.55,
+    "sid": 28,
+    "location": 2,
+    "content": "舞蹈是肉体的分法",
+    "music": 0
+  },
+  {
+    "from": 48.55,
+    "to": 50.86,
+    "sid": 29,
+    "location": 2,
+    "content": "所以诗歌和舞蹈都能化为音乐",
+    "music": 0
+  },
+  {
+    "from": 50.86,
+    "to": 53.06,
+    "sid": 30,
+    "location": 2,
+    "content": "但电影能包括以上这一切",
+    "music": 0
+  },
+  {
+    "from": 53.06,
+    "to": 54.77,
+    "sid": 31,
+    "location": 2,
+    "content": "所以妥妥是第七艺术",
+    "music": 0
+  },
+  {
+    "from": 54.77,
+    "to": 56.42,
+    "sid": 32,
+    "location": 2,
+    "content": "这个理论被广泛采纳",
+    "music": 0
+  },
+  {
+    "from": 56.42,
+    "to": 58.49,
+    "sid": 33,
+    "location": 2,
+    "content": "希腊艺术的格局也就形成了",
+    "music": 0
+  },
+  {
+    "from": 58.49,
+    "to": 61.4,
+    "sid": 34,
+    "location": 2,
+    "content": "之后有人觉得戏剧应该称之为第八艺术",
+    "music": 0
+  },
+  {
+    "from": 61.4,
+    "to": 62.78,
+    "sid": 35,
+    "location": 2,
+    "content": "算是一种表演艺术",
+    "music": 0
+  },
+  {
+    "from": 62.78,
+    "to": 64.019,
+    "sid": 36,
+    "location": 2,
+    "content": "而且底蕴够足",
+    "music": 0
+  },
+  {
+    "from": 64.019,
+    "to": 67.409,
+    "sid": 37,
+    "location": 2,
+    "content": "电子游戏则在最近几十年被归类为第九艺术",
+    "music": 0
+  },
+  {
+    "from": 67.409,
+    "to": 70.7,
+    "sid": 38,
+    "location": 2,
+    "content": "不过第八艺术和第九艺术都没有受到权威认可",
+    "music": 0
+  },
+  {
+    "from": 70.7,
+    "to": 72.29,
+    "sid": 39,
+    "location": 2,
+    "content": "但这事其实无所谓",
+    "music": 0
+  },
+  {
+    "from": 72.29,
+    "to": 74.57,
+    "sid": 40,
+    "location": 2,
+    "content": "第一权威认可是迟早的事",
+    "music": 0
+  },
+  {
+    "from": 74.57,
+    "to": 77.66,
+    "sid": 41,
+    "location": 2,
+    "content": "第二游戏是不是艺术更多取决于共识",
+    "music": 0
+  },
+  {
+    "from": 77.66,
+    "to": 78.62,
+    "sid": 42,
+    "location": 2,
+    "content": "而不是权威",
+    "music": 0
+  },
+  {
+    "from": 78.62,
+    "to": 80.86,
+    "sid": 43,
+    "location": 2,
+    "content": "为什么说以后都不会再诞生",
+    "music": 0
+  },
+  {
+    "from": 80.86,
+    "to": 82.96,
+    "sid": 44,
+    "location": 2,
+    "content": "比游戏更先进的传播媒介了呢",
+    "music": 0
+  },
+  {
+    "from": 82.96,
+    "to": 86.29,
+    "sid": 45,
+    "location": 2,
+    "content": "因为对于前八大艺术游戏也都可以包含进来",
+    "music": 0
+  },
+  {
+    "from": 86.29,
+    "to": 88.74,
+    "sid": 46,
+    "location": 2,
+    "content": "一个优秀的游戏必然有大量的绘画",
+    "music": 0
+  },
+  {
+    "from": 88.74,
+    "to": 91.2,
+    "sid": 47,
+    "location": 2,
+    "content": "构建场景时也会出现大量建筑物",
+    "music": 0
+  },
+  {
+    "from": 91.2,
+    "to": 92.64,
+    "sid": 48,
+    "location": 2,
+    "content": "雕塑就更不用说了",
+    "music": 0
+  },
+  {
+    "from": 92.64,
+    "to": 94.86,
+    "sid": 49,
+    "location": 2,
+    "content": "我有个小学同学就是雕塑专业的",
+    "music": 0
+  },
+  {
+    "from": 94.86,
+    "to": 96.44,
+    "sid": 50,
+    "location": 2,
+    "content": "还去意大利进修过",
+    "music": 0
+  },
+  {
+    "from": 96.44,
+    "to": 97.34,
+    "sid": 51,
+    "location": 2,
+    "content": "我就问他",
+    "music": 0
+  },
+  {
+    "from": 97.34,
+    "to": 99.5,
+    "sid": 52,
+    "location": 2,
+    "content": "你们这个专业毕业后都去干嘛了",
+    "music": 0
+  },
+  {
+    "from": 99.5,
+    "to": 100.28,
+    "sid": 53,
+    "location": 2,
+    "content": "他告诉我",
+    "music": 0
+  },
+  {
+    "from": 100.28,
+    "to": 102.56,
+    "sid": 54,
+    "location": 2,
+    "content": "他认识的很多人都去做游戏建模了",
+    "music": 0
+  },
+  {
+    "from": 102.56,
+    "to": 105.88,
+    "sid": 55,
+    "location": 2,
+    "content": "音乐诗歌电影表演就更不用说了",
+    "music": 0
+  },
+  {
+    "from": 105.88,
+    "to": 108.49,
+    "sid": 56,
+    "location": 2,
+    "content": "现役的很多音乐大师都在给游戏配乐",
+    "music": 0
+  },
+  {
+    "from": 108.49,
+    "to": 111.92,
+    "sid": 57,
+    "location": 2,
+    "content": "很多国产手游虽然内核可能和艺术不太搭边",
+    "music": 0
+  },
+  {
+    "from": 111.92,
+    "to": 113.3,
+    "sid": 58,
+    "location": 2,
+    "content": "但因为财大气粗",
+    "music": 0
+  },
+  {
+    "from": 113.3,
+    "to": 115.32,
+    "sid": 59,
+    "location": 2,
+    "content": "请的音乐团队堪称无敌",
+    "music": 0
+  },
+  {
+    "from": 115.32,
+    "to": 117.75,
+    "sid": 60,
+    "location": 2,
+    "content": "游戏中的叙事部分也包含了文学",
+    "music": 0
+  },
+  {
+    "from": 117.75,
+    "to": 120.42,
+    "sid": 61,
+    "location": 2,
+    "content": "一开始是有了职业游戏编剧之后",
+    "music": 0
+  },
+  {
+    "from": 120.42,
+    "to": 122.58,
+    "sid": 62,
+    "location": 2,
+    "content": "不少文学作品被改编成了游戏",
+    "music": 0
+  },
+  {
+    "from": 122.58,
+    "to": 124.22,
+    "sid": 63,
+    "location": 2,
+    "content": "但大多都是通俗小说",
+    "music": 0
+  },
+  {
+    "from": 124.22,
+    "to": 127.58,
+    "sid": 64,
+    "location": 2,
+    "content": "更之后有人把游戏做成了交互式的严肃文学",
+    "music": 0
+  },
+  {
+    "from": 127.58,
+    "to": 129.34,
+    "sid": 65,
+    "location": 2,
+    "content": "比如极乐迪斯科表演",
+    "music": 0
+  },
+  {
+    "from": 129.34,
+    "to": 130.48,
+    "sid": 66,
+    "location": 2,
+    "content": "也是现在游戏",
+    "music": 0
+  },
+  {
+    "from": 130.48,
+    "to": 133.54,
+    "sid": 67,
+    "location": 2,
+    "content": "想要把演出动作和面部表情做的好一点",
+    "music": 0
+  },
+  {
+    "from": 133.54,
+    "to": 134.98,
+    "sid": 68,
+    "location": 2,
+    "content": "基本都在动用演员",
+    "music": 0
+  },
+  {
+    "from": 134.98,
+    "to": 137.64,
+    "sid": 69,
+    "location": 2,
+    "content": "比较著名的就是顽皮狗的最后生还者",
+    "music": 0
+  },
+  {
+    "from": 137.64,
+    "to": 139.14,
+    "sid": 70,
+    "location": 2,
+    "content": "电影就更不用说了",
+    "music": 0
+  },
+  {
+    "from": 139.14,
+    "to": 141.3,
+    "sid": 71,
+    "location": 2,
+    "content": "电子游戏英文就叫video game",
+    "music": 0
+  },
+  {
+    "from": 141.3,
+    "to": 143.14,
+    "sid": 72,
+    "location": 2,
+    "content": "电子游戏最恐怖的地方在于",
+    "music": 0
+  },
+  {
+    "from": 143.14,
+    "to": 145.12,
+    "sid": 73,
+    "location": 2,
+    "content": "它不仅包含了前八大艺术",
+    "music": 0
+  },
+  {
+    "from": 145.12,
+    "to": 147.46,
+    "sid": 74,
+    "location": 2,
+    "content": "还有一个独特的机制交互",
+    "music": 0
+  },
+  {
+    "from": 147.46,
+    "to": 149.62,
+    "sid": 75,
+    "location": 2,
+    "content": "这是别的艺术形式很难做到的",
+    "music": 0
+  },
+  {
+    "from": 149.62,
+    "to": 151.54,
+    "sid": 76,
+    "location": 2,
+    "content": "电影只能让大家成为观众",
+    "music": 0
+  },
+  {
+    "from": 151.54,
+    "to": 153.58,
+    "sid": 77,
+    "location": 2,
+    "content": "而游戏可以让人们成为主角",
+    "music": 0
+  },
+  {
+    "from": 153.58,
+    "to": 156.16,
+    "sid": 78,
+    "location": 2,
+    "content": "还有比交互更深一级的艺术形式吗",
+    "music": 0
+  },
+  {
+    "from": 156.16,
+    "to": 157.18,
+    "sid": 79,
+    "location": 2,
+    "content": "显然是没有了",
+    "music": 0
+  },
+  {
+    "from": 157.18,
+    "to": 160.25,
+    "sid": 80,
+    "location": 2,
+    "content": "哪怕未来未来普及甚至脑机接口普及",
+    "music": 0
+  },
+  {
+    "from": 160.25,
+    "to": 162.56,
+    "sid": 81,
+    "location": 2,
+    "content": "人脑真能与机器相连起来打游戏",
+    "music": 0
+  },
+  {
+    "from": 162.56,
+    "to": 164.32,
+    "sid": 82,
+    "location": 2,
+    "content": "那也只是沉浸感更强",
+    "music": 0
+  },
+  {
+    "from": 164.32,
+    "to": 166.06,
+    "sid": 83,
+    "location": 2,
+    "content": "本质上我们还是在交互",
+    "music": 0
+  },
+  {
+    "from": 166.06,
+    "to": 167.8,
+    "sid": 84,
+    "location": 2,
+    "content": "正因为有着交互这个机制",
+    "music": 0
+  },
+  {
+    "from": 167.8,
+    "to": 169.54,
+    "sid": 85,
+    "location": 2,
+    "content": "游戏作为文化传播媒介",
+    "music": 0
+  },
+  {
+    "from": 169.54,
+    "to": 170.7,
+    "sid": 86,
+    "location": 2,
+    "content": "效果也是无敌的",
+    "music": 0
+  },
+  {
+    "from": 170.7,
+    "to": 171.75,
+    "sid": 87,
+    "location": 2,
+    "content": "最近这些年",
+    "music": 0
+  },
+  {
+    "from": 171.75,
+    "to": 173.82,
+    "sid": 88,
+    "location": 2,
+    "content": "中国的小说在国外开始流行",
+    "music": 0
+  },
+  {
+    "from": 173.82,
+    "to": 176.26,
+    "sid": 89,
+    "location": 2,
+    "content": "有段时间游客一进越南书店",
+    "music": 0
+  },
+  {
+    "from": 176.26,
+    "to": 176.98,
+    "sid": 90,
+    "location": 2,
+    "content": "摆在c位",
+    "music": 0
+  },
+  {
+    "from": 176.98,
+    "to": 178.99,
+    "sid": 91,
+    "location": 2,
+    "content": "第一排的就是微微一笑很倾城",
+    "music": 0
+  },
+  {
+    "from": 178.99,
+    "to": 179.86,
+    "sid": 92,
+    "location": 2,
+    "content": "除了东南亚",
+    "music": 0
+  },
+  {
+    "from": 179.86,
+    "to": 182.12,
+    "sid": 93,
+    "location": 2,
+    "content": "欧美也有很多老哥爱看中国网文",
+    "music": 0
+  },
+  {
+    "from": 182.12,
+    "to": 183.44,
+    "sid": 94,
+    "location": 2,
+    "content": "但一直没能出现一个",
+    "music": 0
+  },
+  {
+    "from": 183.44,
+    "to": 185.72,
+    "sid": 95,
+    "location": 2,
+    "content": "类似于哈利波特之类的顶级ip",
+    "music": 0
+  },
+  {
+    "from": 185.72,
+    "to": 187.78,
+    "sid": 96,
+    "location": 2,
+    "content": "我就一直在思考一个问题",
+    "music": 0
+  },
+  {
+    "from": 187.78,
+    "to": 189.07,
+    "sid": 97,
+    "location": 2,
+    "content": "既然网文能火",
+    "music": 0
+  },
+  {
+    "from": 189.07,
+    "to": 191.72,
+    "sid": 98,
+    "location": 2,
+    "content": "说明老外理解中文小说是没问题的",
+    "music": 0
+  },
+  {
+    "from": 191.72,
+    "to": 194,
+    "sid": 99,
+    "location": 2,
+    "content": "甚至外国人都要拍三体电视剧了",
+    "music": 0
+  },
+  {
+    "from": 194,
+    "to": 196.55,
+    "sid": 100,
+    "location": 2,
+    "content": "可为啥金庸曾在国内火了这么多年",
+    "music": 0
+  },
+  {
+    "from": 196.55,
+    "to": 198.17,
+    "sid": 101,
+    "location": 2,
+    "content": "在国外却没什么反响的",
+    "music": 0
+  },
+  {
+    "from": 198.17,
+    "to": 199.79,
+    "sid": 102,
+    "location": 2,
+    "content": "问题很可能出在语言",
+    "music": 0
+  },
+  {
+    "from": 199.79,
+    "to": 203,
+    "sid": 103,
+    "location": 2,
+    "content": "那些在海外火的小说虽然是用中文写成的",
+    "music": 0
+  },
+  {
+    "from": 203,
+    "to": 204.74,
+    "sid": 104,
+    "location": 2,
+    "content": "但语言逻辑是西式的",
+    "music": 0
+  },
+  {
+    "from": 204.74,
+    "to": 206.12,
+    "sid": 105,
+    "location": 2,
+    "content": "里面有很多助词",
+    "music": 0
+  },
+  {
+    "from": 206.12,
+    "to": 208.72,
+    "sid": 106,
+    "location": 2,
+    "content": "这里我节选一段莫言的生死疲劳",
+    "music": 0
+  },
+  {
+    "from": 208.72,
+    "to": 211.42,
+    "sid": 107,
+    "location": 2,
+    "content": "鬼族用一个经验丰富的老者教训",
+    "music": 0
+  },
+  {
+    "from": 211.42,
+    "to": 213.94,
+    "sid": 108,
+    "location": 2,
+    "content": "少不更事的毛头小子的口吻说",
+    "music": 0
+  },
+  {
+    "from": 213.94,
+    "to": 214.66,
+    "sid": 109,
+    "location": 2,
+    "content": "妈的",
+    "music": 0
+  },
+  {
+    "from": 214.66,
+    "to": 216.34,
+    "sid": 110,
+    "location": 2,
+    "content": "你的脑子里灌水了吗",
+    "music": 0
+  },
+  {
+    "from": 216.34,
+    "to": 218.34,
+    "sid": 111,
+    "location": 2,
+    "content": "你的眼睛被秃鹫啄瞎了吗",
+    "music": 0
+  },
+  {
+    "from": 218.34,
+    "to": 219.3,
+    "sid": 112,
+    "location": 2,
+    "content": "你难道看不见",
+    "music": 0
+  },
+  {
+    "from": 219.3,
+    "to": 219.96,
+    "sid": 113,
+    "location": 2,
+    "content": "他的身体",
+    "music": 0
+  },
+  {
+    "from": 222.54,
+    "to": 223.28,
+    "sid": 114,
+    "location": 2,
+    "content": "酥焦了吗",
+    "music": 0
+  },
+  {
+    "from": 223.28,
+    "to": 225.5,
+    "sid": 115,
+    "location": 2,
+    "content": "各位可以数数得了吗",
+    "music": 0
+  },
+  {
+    "from": 225.5,
+    "to": 227.92,
+    "sid": 116,
+    "location": 2,
+    "content": "这三个字在这段话里出现了多少次",
+    "music": 0
+  },
+  {
+    "from": 227.92,
+    "to": 230.83,
+    "sid": 117,
+    "location": 2,
+    "content": "现实中我们说话是不会带这么多助词的",
+    "music": 0
+  },
+  {
+    "from": 230.83,
+    "to": 232.42,
+    "sid": 118,
+    "location": 2,
+    "content": "顶多会说你脑子灌水了",
+    "music": 0
+  },
+  {
+    "from": 232.42,
+    "to": 233.5,
+    "sid": 119,
+    "location": 2,
+    "content": "还是眼睛瞎了",
+    "music": 0
+  },
+  {
+    "from": 233.5,
+    "to": 235.78,
+    "sid": 120,
+    "location": 2,
+    "content": "当然不是说莫言文字功底不好",
+    "music": 0
+  },
+  {
+    "from": 237.52,
+    "to": 240.26,
+    "sid": 121,
+    "location": 2,
+    "content": "需要故意这样写来提升文章的荒诞性",
+    "music": 0
+  },
+  {
+    "from": 240.26,
+    "to": 243.98,
+    "sid": 122,
+    "location": 2,
+    "content": "反观金庸对介词助词的使用是非常克制啊",
+    "music": 0
+  },
+  {
+    "from": 243.98,
+    "to": 247.07,
+    "sid": 123,
+    "location": 2,
+    "content": "所以他写的文字非常符合中国人的阅读意识",
+    "music": 0
+  },
+  {
+    "from": 247.07,
+    "to": 247.76,
+    "sid": 124,
+    "location": 2,
+    "content": "节选一段",
+    "music": 0
+  },
+  {
+    "from": 247.76,
+    "to": 248.84,
+    "sid": 125,
+    "location": 2,
+    "content": "大家感受一下",
+    "music": 0
+  },
+  {
+    "from": 248.84,
+    "to": 250.34,
+    "sid": 126,
+    "location": 2,
+    "content": "周芷若冷笑道",
+    "music": 0
+  },
+  {
+    "from": 250.34,
+    "to": 252.14,
+    "sid": 127,
+    "location": 2,
+    "content": "咱们从前有婚姻之约",
+    "music": 0
+  },
+  {
+    "from": 252.14,
+    "to": 254.18,
+    "sid": 128,
+    "location": 2,
+    "content": "我丈夫此刻却是命在垂危",
+    "music": 0
+  },
+  {
+    "from": 254.18,
+    "to": 256.06,
+    "sid": 129,
+    "location": 2,
+    "content": "加之今日我没伤你性命",
+    "music": 0
+  },
+  {
+    "from": 256.06,
+    "to": 258.46,
+    "sid": 130,
+    "location": 2,
+    "content": "旁人定然说我对你旧情犹存",
+    "music": 0
+  },
+  {
+    "from": 258.46,
+    "to": 259.75,
+    "sid": 131,
+    "location": 2,
+    "content": "若再邀你相助",
+    "music": 0
+  },
+  {
+    "from": 259.75,
+    "to": 260.5,
+    "sid": 132,
+    "location": 2,
+    "content": "天下英雄",
+    "music": 0
+  },
+  {
+    "from": 260.5,
+    "to": 261.28,
+    "sid": 133,
+    "location": 2,
+    "content": "人人要骂我",
+    "music": 0
+  },
+  {
+    "from": 261.28,
+    "to": 262.12,
+    "sid": 134,
+    "location": 2,
+    "content": "不知廉耻",
+    "music": 0
+  },
+  {
+    "from": 262.12,
+    "to": 263.17,
+    "sid": 135,
+    "location": 2,
+    "content": "水性杨花",
+    "music": 0
+  },
+  {
+    "from": 263.17,
+    "to": 264.54,
+    "sid": 136,
+    "location": 2,
+    "content": "张无忌急道",
+    "music": 0
+  },
+  {
+    "from": 264.54,
+    "to": 266.16,
+    "sid": 137,
+    "location": 2,
+    "content": "咱们只需问心无愧",
+    "music": 0
+  },
+  {
+    "from": 266.16,
+    "to": 268.06,
+    "sid": 138,
+    "location": 2,
+    "content": "旁人言语理他作甚",
+    "music": 0
+  },
+  {
+    "from": 268.06,
+    "to": 269.02,
+    "sid": 139,
+    "location": 2,
+    "content": "周芷若道",
+    "music": 0
+  },
+  {
+    "from": 269.02,
+    "to": 270.64,
+    "sid": 140,
+    "location": 2,
+    "content": "倘若我问心有愧呢",
+    "music": 0
+  },
+  {
+    "from": 270.64,
+    "to": 272.86,
+    "sid": 141,
+    "location": 2,
+    "content": "各位可以去读金庸的原著试试啊",
+    "music": 0
+  },
+  {
+    "from": 272.86,
+    "to": 274.6,
+    "sid": 142,
+    "location": 2,
+    "content": "不要看那些影视改编作品",
+    "music": 0
+  },
+  {
+    "from": 274.6,
+    "to": 276.36,
+    "sid": 143,
+    "location": 2,
+    "content": "读起来那是一个丝滑",
+    "music": 0
+  },
+  {
+    "from": 276.36,
+    "to": 277.44,
+    "sid": 144,
+    "location": 2,
+    "content": "射雕三部曲",
+    "music": 0
+  },
+  {
+    "from": 277.44,
+    "to": 278.7,
+    "sid": 145,
+    "location": 2,
+    "content": "加起来近400万字",
+    "music": 0
+  },
+  {
+    "from": 278.7,
+    "to": 280.26,
+    "sid": 146,
+    "location": 2,
+    "content": "我两周全部看完了",
+    "music": 0
+  },
+  {
+    "from": 280.26,
+    "to": 281.22,
+    "sid": 147,
+    "location": 2,
+    "content": "读别人的小说",
+    "music": 0
+  },
+  {
+    "from": 281.22,
+    "to": 282.69,
+    "sid": 148,
+    "location": 2,
+    "content": "再也没有过这种体验",
+    "music": 0
+  },
+  {
+    "from": 282.69,
+    "to": 283.8,
+    "sid": 149,
+    "location": 2,
+    "content": "但问题就在于",
+    "music": 0
+  },
+  {
+    "from": 283.8,
+    "to": 285.1,
+    "sid": 150,
+    "location": 2,
+    "content": "这种东西很难翻译",
+    "music": 0
+  },
+  {
+    "from": 285.1,
+    "to": 287.08,
+    "sid": 151,
+    "location": 2,
+    "content": "再加上金庸的底蕴很强",
+    "music": 0
+  },
+  {
+    "from": 287.08,
+    "to": 289.12,
+    "sid": 152,
+    "location": 2,
+    "content": "他的文字到处都是意境",
+    "music": 0
+  },
+  {
+    "from": 289.12,
+    "to": 290.62,
+    "sid": 153,
+    "location": 2,
+    "content": "连对话都翻译不出来",
+    "music": 0
+  },
+  {
+    "from": 290.62,
+    "to": 292.06,
+    "sid": 154,
+    "location": 2,
+    "content": "意境就更难翻译了",
+    "music": 0
+  },
+  {
+    "from": 292.06,
+    "to": 293.14,
+    "sid": 155,
+    "location": 2,
+    "content": "最简单的例子",
+    "music": 0
+  },
+  {
+    "from": 293.14,
+    "to": 294.08,
+    "sid": 156,
+    "location": 2,
+    "content": "郭靖杨康",
+    "music": 0
+  },
+  {
+    "from": 294.08,
+    "to": 296.84,
+    "sid": 157,
+    "location": 2,
+    "content": "你很难跟外国人解释这两个名字的妙处",
+    "music": 0
+  },
+  {
+    "from": 296.84,
+    "to": 298.88,
+    "sid": 158,
+    "location": 2,
+    "content": "黄蓉则被翻译成了ladies晃",
+    "music": 0
+  },
+  {
+    "from": 298.88,
+    "to": 300.3,
+    "sid": 159,
+    "location": 2,
+    "content": "也就是莲花黄",
+    "music": 0
+  },
+  {
+    "from": 300.3,
+    "to": 301.56,
+    "sid": 160,
+    "location": 2,
+    "content": "还有笑傲江湖",
+    "music": 0
+  },
+  {
+    "from": 301.56,
+    "to": 303.18,
+    "sid": 161,
+    "location": 2,
+    "content": "韩文版直接选择音译",
+    "music": 0
+  },
+  {
+    "from": 303.18,
+    "to": 306.64,
+    "sid": 162,
+    "location": 2,
+    "content": "soo刚胡笑傲这两个狂放不羁的内涵",
+    "music": 0
+  },
+  {
+    "from": 306.64,
+    "to": 307.48,
+    "sid": 163,
+    "location": 2,
+    "content": "完全丢了",
+    "music": 0
+  },
+  {
+    "from": 307.48,
+    "to": 309.76,
+    "sid": 164,
+    "location": 2,
+    "content": "江湖这俩字代表的那种社会啊",
+    "music": 0
+  },
+  {
+    "from": 309.76,
+    "to": 311.29,
+    "sid": 165,
+    "location": 2,
+    "content": "武林的意境也丢了",
+    "music": 0
+  },
+  {
+    "from": 311.29,
+    "to": 313.9,
+    "sid": 166,
+    "location": 2,
+    "content": "不知道的还以为是写什么长江湖泊的",
+    "music": 0
+  },
+  {
+    "from": 313.9,
+    "to": 315.79,
+    "sid": 167,
+    "location": 2,
+    "content": "那自然吸引不了大家观看",
+    "music": 0
+  },
+  {
+    "from": 315.79,
+    "to": 318.02,
+    "sid": 168,
+    "location": 2,
+    "content": "更多的招生名就翻译的更抽象了",
+    "music": 0
+  },
+  {
+    "from": 318.02,
+    "to": 320.42,
+    "sid": 169,
+    "location": 2,
+    "content": "降龙18掌用英语翻译过后",
+    "music": 0
+  },
+  {
+    "from": 320.42,
+    "to": 322.92,
+    "sid": 170,
+    "location": 2,
+    "content": "听起来就像让龙屈服的18招",
+    "music": 0
+  },
+  {
+    "from": 322.92,
+    "to": 325.86,
+    "sid": 171,
+    "location": 2,
+    "content": "也就是说一个东西它的中国气息越浓郁",
+    "music": 0
+  },
+  {
+    "from": 325.86,
+    "to": 327.45,
+    "sid": 172,
+    "location": 2,
+    "content": "就越不利于文化输出",
+    "music": 0
+  },
+  {
+    "from": 327.45,
+    "to": 328.89,
+    "sid": 173,
+    "location": 2,
+    "content": "但如果做成游戏",
+    "music": 0
+  },
+  {
+    "from": 328.89,
+    "to": 330.12,
+    "sid": 174,
+    "location": 2,
+    "content": "可以让大家听到",
+    "music": 0
+  },
+  {
+    "from": 330.12,
+    "to": 333.3,
+    "sid": 175,
+    "location": 2,
+    "content": "看到玩到轻轻松松就能把这个意境表达出来",
+    "music": 0
+  },
+  {
+    "from": 333.3,
+    "to": 335.43,
+    "sid": 176,
+    "location": 2,
+    "content": "中国气息最浓郁的那些文化",
+    "music": 0
+  },
+  {
+    "from": 335.43,
+    "to": 336.18,
+    "sid": 177,
+    "location": 2,
+    "content": "比如京剧",
+    "music": 0
+  },
+  {
+    "from": 336.18,
+    "to": 337.26,
+    "sid": 178,
+    "location": 2,
+    "content": "昆曲书法",
+    "music": 0
+  },
+  {
+    "from": 337.26,
+    "to": 337.74,
+    "sid": 179,
+    "location": 2,
+    "content": "易经",
+    "music": 0
+  },
+  {
+    "from": 337.74,
+    "to": 338.94,
+    "sid": 180,
+    "location": 2,
+    "content": "四书五经之类的",
+    "music": 0
+  },
+  {
+    "from": 338.94,
+    "to": 340.14,
+    "sid": 181,
+    "location": 2,
+    "content": "比如说文化输出了",
+    "music": 0
+  },
+  {
+    "from": 340.14,
+    "to": 341.94,
+    "sid": 182,
+    "location": 2,
+    "content": "文化传承可能都有问题",
+    "music": 0
+  },
+  {
+    "from": 341.94,
+    "to": 343.38,
+    "sid": 183,
+    "location": 2,
+    "content": "因为对老百姓来说",
+    "music": 0
+  },
+  {
+    "from": 343.38,
+    "to": 345.87,
+    "sid": 184,
+    "location": 2,
+    "content": "他们有那么多更刺激的娱乐可以选择",
+    "music": 0
+  },
+  {
+    "from": 345.87,
+    "to": 348.22,
+    "sid": 185,
+    "location": 2,
+    "content": "这些东西就显得太阳春白雪了",
+    "music": 0
+  },
+  {
+    "from": 348.22,
+    "to": 349.33,
+    "sid": 186,
+    "location": 2,
+    "content": "但同样的",
+    "music": 0
+  },
+  {
+    "from": 349.33,
+    "to": 351.4,
+    "sid": 187,
+    "location": 2,
+    "content": "如果把这些东西做到游戏里去",
+    "music": 0
+  },
+  {
+    "from": 351.4,
+    "to": 353.17,
+    "sid": 188,
+    "location": 2,
+    "content": "自然就会引起大家的兴趣",
+    "music": 0
+  },
+  {
+    "from": 353.17,
+    "to": 354.7,
+    "sid": 189,
+    "location": 2,
+    "content": "举两个简单的例子",
+    "music": 0
+  },
+  {
+    "from": 354.7,
+    "to": 356.48,
+    "sid": 190,
+    "location": 2,
+    "content": "我童年的传统文化启蒙",
+    "music": 0
+  },
+  {
+    "from": 356.48,
+    "to": 358.94,
+    "sid": 191,
+    "location": 2,
+    "content": "几乎就来自于武林群侠传和梦幻西游",
+    "music": 0
+  },
+  {
+    "from": 358.94,
+    "to": 359.84,
+    "sid": 192,
+    "location": 2,
+    "content": "这两个游戏",
+    "music": 0
+  },
+  {
+    "from": 359.84,
+    "to": 362.4,
+    "sid": 193,
+    "location": 2,
+    "content": "武林群侠传作为一个国风武侠游戏",
+    "music": 0
+  },
+  {
+    "from": 362.4,
+    "to": 364.92,
+    "sid": 194,
+    "location": 2,
+    "content": "游戏中到处都透露着国学底蕴",
+    "music": 0
+  },
+  {
+    "from": 364.92,
+    "to": 367.74,
+    "sid": 195,
+    "location": 2,
+    "content": "例如忘忧谷中居住着忘忧七贤",
+    "music": 0
+  },
+  {
+    "from": 367.74,
+    "to": 370.56,
+    "sid": 196,
+    "location": 2,
+    "content": "分别是举手酒仙丹青书生",
+    "music": 0
+  },
+  {
+    "from": 370.56,
+    "to": 372.46,
+    "sid": 197,
+    "location": 2,
+    "content": "仙阴神医花翁",
+    "music": 0
+  },
+  {
+    "from": 372.46,
+    "to": 374.44,
+    "sid": 198,
+    "location": 2,
+    "content": "玩家与他们关系搞好后",
+    "music": 0
+  },
+  {
+    "from": 374.44,
+    "to": 376.3,
+    "sid": 199,
+    "location": 2,
+    "content": "他们会向玩家传授琴棋书画",
+    "music": 0
+  },
+  {
+    "from": 376.3,
+    "to": 377.62,
+    "sid": 200,
+    "location": 2,
+    "content": "一九花的相关知识",
+    "music": 0
+  },
+  {
+    "from": 377.62,
+    "to": 379.36,
+    "sid": 201,
+    "location": 2,
+    "content": "我们需要记住这些知识",
+    "music": 0
+  },
+  {
+    "from": 379.36,
+    "to": 380.44,
+    "sid": 202,
+    "location": 2,
+    "content": "因为他们会测试",
+    "music": 0
+  },
+  {
+    "from": 380.44,
+    "to": 383.14,
+    "sid": 203,
+    "location": 2,
+    "content": "我们只要通过测试才能得到各种奖励",
+    "music": 0
+  },
+  {
+    "from": 383.14,
+    "to": 384.76,
+    "sid": 204,
+    "location": 2,
+    "content": "例如第一次碰到举手",
+    "music": 0
+  },
+  {
+    "from": 384.76,
+    "to": 387.02,
+    "sid": 205,
+    "location": 2,
+    "content": "他会教你关于象棋的基本概念",
+    "music": 0
+  },
+  {
+    "from": 387.02,
+    "to": 389.09,
+    "sid": 206,
+    "location": 2,
+    "content": "每隔一段时间对你测试一次",
+    "music": 0
+  },
+  {
+    "from": 389.09,
+    "to": 390.14,
+    "sid": 207,
+    "location": 2,
+    "content": "给你一个残局",
+    "music": 0
+  },
+  {
+    "from": 390.14,
+    "to": 391.1,
+    "sid": 208,
+    "location": 2,
+    "content": "考你怎么走",
+    "music": 0
+  },
+  {
+    "from": 391.1,
+    "to": 392.66,
+    "sid": 209,
+    "location": 2,
+    "content": "只有通过五次测试",
+    "music": 0
+  },
+  {
+    "from": 392.66,
+    "to": 395.72,
+    "sid": 210,
+    "location": 2,
+    "content": "才能学会一招名为满天流星的暗器功夫",
+    "music": 0
+  },
+  {
+    "from": 395.72,
+    "to": 397.79,
+    "sid": 211,
+    "location": 2,
+    "content": "神医则会教你针灸知识",
+    "music": 0
+  },
+  {
+    "from": 397.79,
+    "to": 400.31,
+    "sid": 212,
+    "location": 2,
+    "content": "告诉你扎各种穴位会起什么效果",
+    "music": 0
+  },
+  {
+    "from": 400.31,
+    "to": 401.78,
+    "sid": 213,
+    "location": 2,
+    "content": "当年互联网不发达",
+    "music": 0
+  },
+  {
+    "from": 401.78,
+    "to": 403,
+    "sid": 214,
+    "location": 2,
+    "content": "没法上网查攻略",
+    "music": 0
+  },
+  {
+    "from": 403,
+    "to": 404.14,
+    "sid": 215,
+    "location": 2,
+    "content": "我们这些小孩子",
+    "music": 0
+  },
+  {
+    "from": 404.14,
+    "to": 407.24,
+    "sid": 216,
+    "location": 2,
+    "content": "那是不得不刻苦学习背诵这些国学知识",
+    "music": 0
+  },
+  {
+    "from": 407.24,
+    "to": 409.4,
+    "sid": 217,
+    "location": 2,
+    "content": "比学校的强行灌输有效果多了",
+    "music": 0
+  },
+  {
+    "from": 409.4,
+    "to": 410.72,
+    "sid": 218,
+    "location": 2,
+    "content": "正是通过这个游戏",
+    "music": 0
+  },
+  {
+    "from": 410.72,
+    "to": 412.34,
+    "sid": 219,
+    "location": 2,
+    "content": "我知道了宫商角徵羽",
+    "music": 0
+  },
+  {
+    "from": 412.34,
+    "to": 414.02,
+    "sid": 220,
+    "location": 2,
+    "content": "知道了张旭的肚痛贴",
+    "music": 0
+  },
+  {
+    "from": 414.02,
+    "to": 415.16,
+    "sid": 221,
+    "location": 2,
+    "content": "知道了杜康酒",
+    "music": 0
+  },
+  {
+    "from": 415.16,
+    "to": 415.82,
+    "sid": 222,
+    "location": 2,
+    "content": "西凤酒",
+    "music": 0
+  },
+  {
+    "from": 415.82,
+    "to": 416.6,
+    "sid": 223,
+    "location": 2,
+    "content": "六安瓜片",
+    "music": 0
+  },
+  {
+    "from": 416.6,
+    "to": 417.52,
+    "sid": 224,
+    "location": 2,
+    "content": "祁门红茶",
+    "music": 0
+  },
+  {
+    "from": 417.52,
+    "to": 418.99,
+    "sid": 225,
+    "location": 2,
+    "content": "每出现一幅字帖",
+    "music": 0
+  },
+  {
+    "from": 418.99,
+    "to": 419.68,
+    "sid": 226,
+    "location": 2,
+    "content": "一幅画",
+    "music": 0
+  },
+  {
+    "from": 419.68,
+    "to": 420.34,
+    "sid": 227,
+    "location": 2,
+    "content": "一种酒",
+    "music": 0
+  },
+  {
+    "from": 420.34,
+    "to": 420.91,
+    "sid": 228,
+    "location": 2,
+    "content": "一种茶",
+    "music": 0
+  },
+  {
+    "from": 420.91,
+    "to": 422.98,
+    "sid": 229,
+    "location": 2,
+    "content": "都会有npc和你娓娓道来",
+    "music": 0
+  },
+  {
+    "from": 422.98,
+    "to": 424.22,
+    "sid": 230,
+    "location": 2,
+    "content": "这个字帖好在哪",
+    "music": 0
+  },
+  {
+    "from": 424.22,
+    "to": 426.02,
+    "sid": 231,
+    "location": 2,
+    "content": "酒的味道层次是怎样的",
+    "music": 0
+  },
+  {
+    "from": 426.02,
+    "to": 426.8,
+    "sid": 232,
+    "location": 2,
+    "content": "除此之外",
+    "music": 0
+  },
+  {
+    "from": 426.8,
+    "to": 427.88,
+    "sid": 233,
+    "location": 2,
+    "content": "每到一个城镇",
+    "music": 0
+  },
+  {
+    "from": 427.88,
+    "to": 430.58,
+    "sid": 234,
+    "location": 2,
+    "content": "都会有大量风土民情与文化的介绍",
+    "music": 0
+  },
+  {
+    "from": 430.58,
+    "to": 433.98,
+    "sid": 235,
+    "location": 2,
+    "content": "比如到了洛阳就可以学会道口烧鸡这道菜",
+    "music": 0
+  },
+  {
+    "from": 433.98,
+    "to": 435.48,
+    "sid": 236,
+    "location": 2,
+    "content": "杭州可以学东坡肉",
+    "music": 0
+  },
+  {
+    "from": 435.48,
+    "to": 437.02,
+    "sid": 237,
+    "location": 2,
+    "content": "成都能学宫爆鸡丁",
+    "music": 0
+  },
+  {
+    "from": 437.02,
+    "to": 439.39,
+    "sid": 238,
+    "location": 2,
+    "content": "总之这游戏能长久的吸引玩家",
+    "music": 0
+  },
+  {
+    "from": 439.39,
+    "to": 440.26,
+    "sid": 239,
+    "location": 2,
+    "content": "除了游戏性",
+    "music": 0
+  },
+  {
+    "from": 440.26,
+    "to": 441.88,
+    "sid": 240,
+    "location": 2,
+    "content": "我觉得一个非常重要的原因",
+    "music": 0
+  },
+  {
+    "from": 441.88,
+    "to": 444.04,
+    "sid": 241,
+    "location": 2,
+    "content": "就是里面有大量的中国文化记忆",
+    "music": 0
+  },
+  {
+    "from": 444.04,
+    "to": 445.39,
+    "sid": 242,
+    "location": 2,
+    "content": "再说说梦幻西游",
+    "music": 0
+  },
+  {
+    "from": 445.39,
+    "to": 447.61,
+    "sid": 243,
+    "location": 2,
+    "content": "一个以西游记为背景的网络游戏",
+    "music": 0
+  },
+  {
+    "from": 447.61,
+    "to": 450.62,
+    "sid": 244,
+    "location": 2,
+    "content": "为什么中国那么多题材可以用很多动漫",
+    "music": 0
+  },
+  {
+    "from": 450.62,
+    "to": 451.52,
+    "sid": 245,
+    "location": 2,
+    "content": "电影游戏",
+    "music": 0
+  },
+  {
+    "from": 451.52,
+    "to": 453.62,
+    "sid": 246,
+    "location": 2,
+    "content": "不管是大圣归来还是黑神话",
+    "music": 0
+  },
+  {
+    "from": 453.62,
+    "to": 455.74,
+    "sid": 247,
+    "location": 2,
+    "content": "悟空都喜欢改编西游记",
+    "music": 0
+  },
+  {
+    "from": 455.74,
+    "to": 457.39,
+    "sid": 248,
+    "location": 2,
+    "content": "这其实是有讲究的",
+    "music": 0
+  },
+  {
+    "from": 457.39,
+    "to": 459.94,
+    "sid": 249,
+    "location": 2,
+    "content": "英语中小说的单词是nl",
+    "music": 0
+  },
+  {
+    "from": 459.94,
+    "to": 462,
+    "sid": 250,
+    "location": 2,
+    "content": "当时有人开始写长篇小说啊",
+    "music": 0
+  },
+  {
+    "from": 462,
+    "to": 464.64,
+    "sid": 251,
+    "location": 2,
+    "content": "很多人从没见过这种文学创作形式",
+    "music": 0
+  },
+  {
+    "from": 464.64,
+    "to": 467.4,
+    "sid": 252,
+    "location": 2,
+    "content": "所以这个拉伸六演化而来的代表新的意思",
+    "music": 0
+  },
+  {
+    "from": 467.4,
+    "to": 470.88,
+    "sid": 253,
+    "location": 2,
+    "content": "而中文的小说带个小字是因为在封建社会下",
+    "music": 0
+  },
+  {
+    "from": 470.88,
+    "to": 472.56,
+    "sid": 254,
+    "location": 2,
+    "content": "小说是上不了台面的",
+    "music": 0
+  },
+  {
+    "from": 472.56,
+    "to": 473.34,
+    "sid": 255,
+    "location": 2,
+    "content": "正经读书人",
+    "music": 0
+  },
+  {
+    "from": 473.34,
+    "to": 474.9,
+    "sid": 256,
+    "location": 2,
+    "content": "那读的都是四书五经",
+    "music": 0
+  },
+  {
+    "from": 474.9,
+    "to": 477.39,
+    "sid": 257,
+    "location": 2,
+    "content": "但也有些思想先锋的人不这么认为",
+    "music": 0
+  },
+  {
+    "from": 477.39,
+    "to": 479.52,
+    "sid": 258,
+    "location": 2,
+    "content": "比如明朝时期有个叫冯梦龙的人",
+    "music": 0
+  },
+  {
+    "from": 479.52,
+    "to": 480.78,
+    "sid": 259,
+    "location": 2,
+    "content": "他就把三国演义",
+    "music": 0
+  },
+  {
+    "from": 480.78,
+    "to": 481.44,
+    "sid": 260,
+    "location": 2,
+    "content": "水浒传",
+    "music": 0
+  },
+  {
+    "from": 481.44,
+    "to": 483.24,
+    "sid": 261,
+    "location": 2,
+    "content": "西游记等作品分为奇数",
+    "music": 0
+  },
+  {
+    "from": 483.24,
+    "to": 484.92,
+    "sid": 262,
+    "location": 2,
+    "content": "在新文化运动时期",
+    "music": 0
+  },
+  {
+    "from": 484.92,
+    "to": 488.06,
+    "sid": 263,
+    "location": 2,
+    "content": "钱玄同把西游记列入神怪不经之谈",
+    "music": 0
+  },
+  {
+    "from": 488.06,
+    "to": 489.74,
+    "sid": 264,
+    "location": 2,
+    "content": "胡适则写信对他说",
+    "music": 0
+  },
+  {
+    "from": 489.74,
+    "to": 491.86,
+    "sid": 265,
+    "location": 2,
+    "content": "西游记荒唐而有情思",
+    "music": 0
+  },
+  {
+    "from": 491.86,
+    "to": 493.21,
+    "sid": 266,
+    "location": 2,
+    "content": "诙谐而有庄意",
+    "music": 0
+  },
+  {
+    "from": 493.21,
+    "to": 496.33,
+    "sid": 267,
+    "location": 2,
+    "content": "在世界神话小说实为不可多得之作",
+    "music": 0
+  },
+  {
+    "from": 496.33,
+    "to": 499.46,
+    "sid": 268,
+    "location": 2,
+    "content": "胡适还自己提出了我国古代第一流小说",
+    "music": 0
+  },
+  {
+    "from": 499.46,
+    "to": 500.78,
+    "sid": 269,
+    "location": 2,
+    "content": "分别为水浒传",
+    "music": 0
+  },
+  {
+    "from": 500.78,
+    "to": 501.38,
+    "sid": 270,
+    "location": 2,
+    "content": "西游记",
+    "music": 0
+  },
+  {
+    "from": 501.38,
+    "to": 502.22,
+    "sid": 271,
+    "location": 2,
+    "content": "儒林外史",
+    "music": 0
+  },
+  {
+    "from": 502.22,
+    "to": 502.94,
+    "sid": 272,
+    "location": 2,
+    "content": "红楼梦",
+    "music": 0
+  },
+  {
+    "from": 502.94,
+    "to": 504.26,
+    "sid": 273,
+    "location": 2,
+    "content": "新中国成立后",
+    "music": 0
+  },
+  {
+    "from": 504.26,
+    "to": 508.06,
+    "sid": 274,
+    "location": 2,
+    "content": "人民文学出版社推出的中国古典文学读本丛书",
+    "music": 0
+  },
+  {
+    "from": 508.06,
+    "to": 509.74,
+    "sid": 275,
+    "location": 2,
+    "content": "其中有四本书最受欢迎",
+    "music": 0
+  },
+  {
+    "from": 509.74,
+    "to": 512.74,
+    "sid": 276,
+    "location": 2,
+    "content": "人民文学就推出了以四大名著命名的套装本",
+    "music": 0
+  },
+  {
+    "from": 512.74,
+    "to": 514.9,
+    "sid": 277,
+    "location": 2,
+    "content": "这就是今天大家熟知的水浒传",
+    "music": 0
+  },
+  {
+    "from": 514.9,
+    "to": 515.44,
+    "sid": 278,
+    "location": 2,
+    "content": "西游记",
+    "music": 0
+  },
+  {
+    "from": 515.44,
+    "to": 516.78,
+    "sid": 279,
+    "location": 2,
+    "content": "三国演义和红楼梦",
+    "music": 0
+  },
+  {
+    "from": 516.78,
+    "to": 517.44,
+    "sid": 280,
+    "location": 2,
+    "content": "可以说",
+    "music": 0
+  },
+  {
+    "from": 517.44,
+    "to": 518.73,
+    "sid": 281,
+    "location": 2,
+    "content": "西游记和水浒传",
+    "music": 0
+  },
+  {
+    "from": 518.73,
+    "to": 521.7,
+    "sid": 282,
+    "location": 2,
+    "content": "在中国文学史上的地位一直就没有变过",
+    "music": 0
+  },
+  {
+    "from": 521.7,
+    "to": 522.88,
+    "sid": 283,
+    "location": 2,
+    "content": "这是第一个原因",
+    "music": 0
+  },
+  {
+    "from": 522.88,
+    "to": 524.32,
+    "sid": 284,
+    "location": 2,
+    "content": "但与别的名著相比",
+    "music": 0
+  },
+  {
+    "from": 524.32,
+    "to": 526.42,
+    "sid": 285,
+    "location": 2,
+    "content": "西游记更牛逼的是写作视角",
+    "music": 0
+  },
+  {
+    "from": 526.42,
+    "to": 528.13,
+    "sid": 286,
+    "location": 2,
+    "content": "红楼梦写了封建贵族",
+    "music": 0
+  },
+  {
+    "from": 528.13,
+    "to": 530.11,
+    "sid": 287,
+    "location": 2,
+    "content": "三国演义是高层权力斗争",
+    "music": 0
+  },
+  {
+    "from": 530.11,
+    "to": 531.82,
+    "sid": 288,
+    "location": 2,
+    "content": "水浒传是农民起义",
+    "music": 0
+  },
+  {
+    "from": 531.82,
+    "to": 533.74,
+    "sid": 289,
+    "location": 2,
+    "content": "但西游记是天地人神",
+    "music": 0
+  },
+  {
+    "from": 533.74,
+    "to": 534.58,
+    "sid": 290,
+    "location": 2,
+    "content": "妖魔鬼怪",
+    "music": 0
+  },
+  {
+    "from": 534.58,
+    "to": 535.9,
+    "sid": 291,
+    "location": 2,
+    "content": "从小人物到中层",
+    "music": 0
+  },
+  {
+    "from": 535.9,
+    "to": 537.07,
+    "sid": 292,
+    "location": 2,
+    "content": "管理者到高层",
+    "music": 0
+  },
+  {
+    "from": 537.07,
+    "to": 539.68,
+    "sid": 293,
+    "location": 2,
+    "content": "可是涵盖了社会各个阶层的丰富",
+    "music": 0
+  },
+  {
+    "from": 539.68,
+    "to": 541.28,
+    "sid": 294,
+    "location": 2,
+    "content": "是西游记最大的亮点",
+    "music": 0
+  },
+  {
+    "from": 541.28,
+    "to": 543.14,
+    "sid": 295,
+    "location": 2,
+    "content": "那些能成为国民级ip的",
+    "music": 0
+  },
+  {
+    "from": 543.14,
+    "to": 544.22,
+    "sid": 296,
+    "location": 2,
+    "content": "比如欧美的漫威",
+    "music": 0
+  },
+  {
+    "from": 544.22,
+    "to": 544.88,
+    "sid": 297,
+    "location": 2,
+    "content": "哈利波特",
+    "music": 0
+  },
+  {
+    "from": 544.88,
+    "to": 547.34,
+    "sid": 298,
+    "location": 2,
+    "content": "星战都有一个庞大的世界观架构",
+    "music": 0
+  },
+  {
+    "from": 547.34,
+    "to": 550.82,
+    "sid": 299,
+    "location": 2,
+    "content": "而西游记原著中开篇就抛出了世界观感",
+    "music": 0
+  },
+  {
+    "from": 550.82,
+    "to": 552.76,
+    "sid": 300,
+    "location": 2,
+    "content": "盘古开辟三皇治世",
+    "music": 0
+  },
+  {
+    "from": 552.76,
+    "to": 553.6,
+    "sid": 301,
+    "location": 2,
+    "content": "五帝定伦",
+    "music": 0
+  },
+  {
+    "from": 553.6,
+    "to": 555.46,
+    "sid": 302,
+    "location": 2,
+    "content": "世界之间遂分为四大",
+    "music": 0
+  },
+  {
+    "from": 555.46,
+    "to": 558.25,
+    "sid": 303,
+    "location": 2,
+    "content": "部洲曰东胜神洲曰西牛贺洲",
+    "music": 0
+  },
+  {
+    "from": 558.25,
+    "to": 560.44,
+    "sid": 304,
+    "location": 2,
+    "content": "曰南赡部洲曰北俱芦洲",
+    "music": 0
+  },
+  {
+    "from": 560.44,
+    "to": 561.46,
+    "sid": 305,
+    "location": 2,
+    "content": "除此之外",
+    "music": 0
+  },
+  {
+    "from": 561.46,
+    "to": 562.48,
+    "sid": 306,
+    "location": 2,
+    "content": "上面还有天庭",
+    "music": 0
+  },
+  {
+    "from": 562.48,
+    "to": 563.53,
+    "sid": 307,
+    "location": 2,
+    "content": "下面还有地府",
+    "music": 0
+  },
+  {
+    "from": 563.53,
+    "to": 566.1,
+    "sid": 308,
+    "location": 2,
+    "content": "还有东西南北四海人魔神三界",
+    "music": 0
+  },
+  {
+    "from": 566.1,
+    "to": 568.26,
+    "sid": 309,
+    "location": 2,
+    "content": "这就是为什么西游记衍生的电影",
+    "music": 0
+  },
+  {
+    "from": 568.26,
+    "to": 569.64,
+    "sid": 310,
+    "location": 2,
+    "content": "游戏数量是最多的",
+    "music": 0
+  },
+  {
+    "from": 569.64,
+    "to": 572.9,
+    "sid": 311,
+    "location": 2,
+    "content": "鲁迅曾在中国小说史略里是这样点评西游记的",
+    "music": 0
+  },
+  {
+    "from": 572.9,
+    "to": 574.88,
+    "sid": 312,
+    "location": 2,
+    "content": "他说吴承恩性敏多慧",
+    "music": 0
+  },
+  {
+    "from": 574.88,
+    "to": 575.84,
+    "sid": 313,
+    "location": 2,
+    "content": "博及群书",
+    "music": 0
+  },
+  {
+    "from": 575.84,
+    "to": 576.8,
+    "sid": 314,
+    "location": 2,
+    "content": "附上邪具",
+    "music": 0
+  },
+  {
+    "from": 576.8,
+    "to": 577.7,
+    "sid": 315,
+    "location": 2,
+    "content": "随处变幻",
+    "music": 0
+  },
+  {
+    "from": 577.7,
+    "to": 578.6,
+    "sid": 316,
+    "location": 2,
+    "content": "恍惚之事",
+    "music": 0
+  },
+  {
+    "from": 578.6,
+    "to": 580.16,
+    "sid": 317,
+    "location": 2,
+    "content": "亦每杂解颐之言",
+    "music": 0
+  },
+  {
+    "from": 580.16,
+    "to": 582.2,
+    "sid": 318,
+    "location": 2,
+    "content": "使神魔皆有人情精魅",
+    "music": 0
+  },
+  {
+    "from": 582.2,
+    "to": 584.36,
+    "sid": 319,
+    "location": 2,
+    "content": "亦通世故而玩世不恭之意",
+    "music": 0
+  },
+  {
+    "from": 584.36,
+    "to": 586.34,
+    "sid": 320,
+    "location": 2,
+    "content": "欲言作者虽儒生",
+    "music": 0
+  },
+  {
+    "from": 586.34,
+    "to": 588.26,
+    "sid": 321,
+    "location": 2,
+    "content": "此书则实在出于游戏",
+    "music": 0
+  },
+  {
+    "from": 588.26,
+    "to": 590,
+    "sid": 322,
+    "location": 2,
+    "content": "亦非语道不全入",
+    "music": 0
+  },
+  {
+    "from": 590,
+    "to": 592.13,
+    "sid": 323,
+    "location": 2,
+    "content": "仅偶见五行生克之长谈",
+    "music": 0
+  },
+  {
+    "from": 592.13,
+    "to": 593.4,
+    "sid": 324,
+    "location": 2,
+    "content": "犹未佛学",
+    "music": 0
+  },
+  {
+    "from": 593.4,
+    "to": 595.62,
+    "sid": 325,
+    "location": 2,
+    "content": "故莫回至有荒唐无稽之金",
+    "music": 0
+  },
+  {
+    "from": 595.62,
+    "to": 598.62,
+    "sid": 326,
+    "location": 2,
+    "content": "木特原混同之教流行来久不",
+    "music": 0
+  },
+  {
+    "from": 598.62,
+    "to": 601.17,
+    "sid": 327,
+    "location": 2,
+    "content": "其著作乃伊世家与老君同流",
+    "music": 0
+  },
+  {
+    "from": 601.17,
+    "to": 602.78,
+    "sid": 328,
+    "location": 2,
+    "content": "真信与原神杂处",
+    "music": 0
+  },
+  {
+    "from": 602.78,
+    "to": 604.16,
+    "sid": 329,
+    "location": 2,
+    "content": "是三教之徒",
+    "music": 0
+  },
+  {
+    "from": 604.16,
+    "to": 606.08,
+    "sid": 330,
+    "location": 2,
+    "content": "皆得随意附会而已啊",
+    "music": 0
+  },
+  {
+    "from": 606.08,
+    "to": 607.18,
+    "sid": 331,
+    "location": 2,
+    "content": "这是什么意思呢",
+    "music": 0
+  },
+  {
+    "from": 607.18,
+    "to": 610.09,
+    "sid": 332,
+    "location": 2,
+    "content": "因为清代有一些文学评论家分析西游记",
+    "music": 0
+  },
+  {
+    "from": 610.09,
+    "to": 611.96,
+    "sid": 333,
+    "location": 2,
+    "content": "因为西游记又是劝学",
+    "music": 0
+  },
+  {
+    "from": 611.96,
+    "to": 612.83,
+    "sid": 334,
+    "location": 2,
+    "content": "又是谈禅",
+    "music": 0
+  },
+  {
+    "from": 612.83,
+    "to": 613.79,
+    "sid": 335,
+    "location": 2,
+    "content": "又是讲道",
+    "music": 0
+  },
+  {
+    "from": 613.79,
+    "to": 615.38,
+    "sid": 336,
+    "location": 2,
+    "content": "又是阐明礼法的啊",
+    "music": 0
+  },
+  {
+    "from": 615.38,
+    "to": 616.67,
+    "sid": 337,
+    "location": 2,
+    "content": "总之就是很多内涵",
+    "music": 0
+  },
+  {
+    "from": 616.67,
+    "to": 618.29,
+    "sid": 338,
+    "location": 2,
+    "content": "鲁迅反驳了这种说法",
+    "music": 0
+  },
+  {
+    "from": 618.29,
+    "to": 620.87,
+    "sid": 339,
+    "location": 2,
+    "content": "他认为西游记没什么劝学的生意",
+    "music": 0
+  },
+  {
+    "from": 620.87,
+    "to": 622,
+    "sid": 340,
+    "location": 2,
+    "content": "也没讲什么道",
+    "music": 0
+  },
+  {
+    "from": 622,
+    "to": 624.1,
+    "sid": 341,
+    "location": 2,
+    "content": "虽然书里有些五行生克的东西",
+    "music": 0
+  },
+  {
+    "from": 624.1,
+    "to": 627.01,
+    "sid": 342,
+    "location": 2,
+    "content": "但也只不过是引用了当时长谈中的套话",
+    "music": 0
+  },
+  {
+    "from": 627.01,
+    "to": 629.319,
+    "sid": 343,
+    "location": 2,
+    "content": "并非作者要宣扬什么道学真谛",
+    "music": 0
+  },
+  {
+    "from": 629.319,
+    "to": 630.399,
+    "sid": 344,
+    "location": 2,
+    "content": "从全书来看",
+    "music": 0
+  },
+  {
+    "from": 630.399,
+    "to": 632.72,
+    "sid": 345,
+    "location": 2,
+    "content": "吴承恩对佛学也没什么深刻的研究",
+    "music": 0
+  },
+  {
+    "from": 632.72,
+    "to": 634.28,
+    "sid": 346,
+    "location": 2,
+    "content": "他生活在明代中期",
+    "music": 0
+  },
+  {
+    "from": 634.28,
+    "to": 635.96,
+    "sid": 347,
+    "location": 2,
+    "content": "那时儒释道三教混杂",
+    "music": 0
+  },
+  {
+    "from": 635.96,
+    "to": 638,
+    "sid": 348,
+    "location": 2,
+    "content": "不免受到一些三教同源的影响",
+    "music": 0
+  },
+  {
+    "from": 638,
+    "to": 638.62,
+    "sid": 349,
+    "location": 2,
+    "content": "仅此而已",
+    "music": 0
+  },
+  {
+    "from": 638.62,
+    "to": 639.46,
+    "sid": 350,
+    "location": 2,
+    "content": "也就是说",
+    "music": 0
+  },
+  {
+    "from": 639.46,
+    "to": 641.26,
+    "sid": 351,
+    "location": 2,
+    "content": "西游记本身就是一个游戏",
+    "music": 0
+  },
+  {
+    "from": 641.26,
+    "to": 642.64,
+    "sid": 352,
+    "location": 2,
+    "content": "制作并不严肃",
+    "music": 0
+  },
+  {
+    "from": 642.64,
+    "to": 644.56,
+    "sid": 353,
+    "location": 2,
+    "content": "非常适合改编成各种作品",
+    "music": 0
+  },
+  {
+    "from": 644.56,
+    "to": 645.74,
+    "sid": 354,
+    "location": 2,
+    "content": "尤其是游戏",
+    "music": 0
+  },
+  {
+    "from": 645.74,
+    "to": 647.66,
+    "sid": 355,
+    "location": 2,
+    "content": "其实当黑神话悟空出来时",
+    "music": 0
+  },
+  {
+    "from": 647.66,
+    "to": 649.13,
+    "sid": 356,
+    "location": 2,
+    "content": "我看到过一种论调",
+    "music": 0
+  },
+  {
+    "from": 649.13,
+    "to": 651.32,
+    "sid": 357,
+    "location": 2,
+    "content": "说中国游戏来来回回就是武侠",
+    "music": 0
+  },
+  {
+    "from": 651.32,
+    "to": 653.54,
+    "sid": 358,
+    "location": 2,
+    "content": "仙侠西游一点新意都没有",
+    "music": 0
+  },
+  {
+    "from": 653.54,
+    "to": 655.34,
+    "sid": 359,
+    "location": 2,
+    "content": "我觉得这个喷法很无厘头",
+    "music": 0
+  },
+  {
+    "from": 655.34,
+    "to": 657.89,
+    "sid": 360,
+    "location": 2,
+    "content": "fifa从初代fifa 94到fifa 23",
+    "music": 0
+  },
+  {
+    "from": 657.89,
+    "to": 659,
+    "sid": 361,
+    "location": 2,
+    "content": "踢了20多年足球",
+    "music": 0
+  },
+  {
+    "from": 659,
+    "to": 661.5,
+    "sid": 362,
+    "location": 2,
+    "content": "也没见人去喷塞尔达和马力欧",
+    "music": 0
+  },
+  {
+    "from": 661.5,
+    "to": 662.7,
+    "sid": 363,
+    "location": 2,
+    "content": "每一步都是救公主",
+    "music": 0
+  },
+  {
+    "from": 662.7,
+    "to": 664.38,
+    "sid": 364,
+    "location": 2,
+    "content": "也没人说题材做烂了",
+    "music": 0
+  },
+  {
+    "from": 664.38,
+    "to": 666.3,
+    "sid": 365,
+    "location": 2,
+    "content": "题材只是游戏的一个载体",
+    "music": 0
+  },
+  {
+    "from": 666.3,
+    "to": 669.21,
+    "sid": 366,
+    "location": 2,
+    "content": "核心玩法表现力才是更重要的东西",
+    "music": 0
+  },
+  {
+    "from": 669.21,
+    "to": 671.14,
+    "sid": 367,
+    "location": 2,
+    "content": "但也不是说题材就不重要了",
+    "music": 0
+  },
+  {
+    "from": 671.14,
+    "to": 673.24,
+    "sid": 368,
+    "location": 2,
+    "content": "因为能把自家的题材做大做好",
+    "music": 0
+  },
+  {
+    "from": 673.24,
+    "to": 674.32,
+    "sid": 369,
+    "location": 2,
+    "content": "做成文化输出",
+    "music": 0
+  },
+  {
+    "from": 674.32,
+    "to": 675.28,
+    "sid": 370,
+    "location": 2,
+    "content": "干嘛不支持呢",
+    "music": 0
+  },
+  {
+    "from": 675.28,
+    "to": 676.98,
+    "sid": 371,
+    "location": 2,
+    "content": "当时黑神话演示视频里",
+    "music": 0
+  },
+  {
+    "from": 676.98,
+    "to": 678.75,
+    "sid": 372,
+    "location": 2,
+    "content": "孙悟空拔了毫毛用分身",
+    "music": 0
+  },
+  {
+    "from": 678.75,
+    "to": 681.24,
+    "sid": 373,
+    "location": 2,
+    "content": "外国人几乎都在评论魂忍者",
+    "music": 0
+  },
+  {
+    "from": 681.24,
+    "to": 683.22,
+    "sid": 374,
+    "location": 2,
+    "content": "这才是更可悲的黑神话",
+    "music": 0
+  },
+  {
+    "from": 683.22,
+    "to": 686.67,
+    "sid": 375,
+    "location": 2,
+    "content": "悟空的前身斗战神讲的是取经之后的故事",
+    "music": 0
+  },
+  {
+    "from": 686.67,
+    "to": 689.24,
+    "sid": 376,
+    "location": 2,
+    "content": "而梦幻西游他的改编也挺有意思",
+    "music": 0
+  },
+  {
+    "from": 689.24,
+    "to": 691.37,
+    "sid": 377,
+    "location": 2,
+    "content": "讲的是取经之前的故事",
+    "music": 0
+  },
+  {
+    "from": 691.37,
+    "to": 693.8,
+    "sid": 378,
+    "location": 2,
+    "content": "我们玩家扮演的都是原创角色",
+    "music": 0
+  },
+  {
+    "from": 693.8,
+    "to": 695.98,
+    "sid": 379,
+    "location": 2,
+    "content": "任务是去寻找天命取经人",
+    "music": 0
+  },
+  {
+    "from": 695.98,
+    "to": 698.38,
+    "sid": 380,
+    "location": 2,
+    "content": "所以主线任务是帮助唐僧孙悟空",
+    "music": 0
+  },
+  {
+    "from": 698.38,
+    "to": 700.48,
+    "sid": 381,
+    "location": 2,
+    "content": "他们唐僧的爸爸叫陈光蕊",
+    "music": 0
+  },
+  {
+    "from": 700.48,
+    "to": 701.54,
+    "sid": 382,
+    "location": 2,
+    "content": "当时中了状元",
+    "music": 0
+  },
+  {
+    "from": 701.54,
+    "to": 702.68,
+    "sid": 383,
+    "location": 2,
+    "content": "正游街庆贺",
+    "music": 0
+  },
+  {
+    "from": 702.68,
+    "to": 705.26,
+    "sid": 384,
+    "location": 2,
+    "content": "又恰巧赶上了殷丞相的女儿殷温娇",
+    "music": 0
+  },
+  {
+    "from": 705.26,
+    "to": 707.58,
+    "sid": 385,
+    "location": 2,
+    "content": "抛花球又正巧抛到自己手中",
+    "music": 0
+  },
+  {
+    "from": 707.58,
+    "to": 708.48,
+    "sid": 386,
+    "location": 2,
+    "content": "金榜题名",
+    "music": 0
+  },
+  {
+    "from": 708.48,
+    "to": 709.02,
+    "sid": 387,
+    "location": 2,
+    "content": "加洞房",
+    "music": 0
+  },
+  {
+    "from": 709.02,
+    "to": 710.34,
+    "sid": 388,
+    "location": 2,
+    "content": "花烛一下子全有了",
+    "music": 0
+  },
+  {
+    "from": 710.34,
+    "to": 711.74,
+    "sid": 389,
+    "location": 2,
+    "content": "陈光蕊春风得意",
+    "music": 0
+  },
+  {
+    "from": 711.74,
+    "to": 714.38,
+    "sid": 390,
+    "location": 2,
+    "content": "但携带着妻子去江州赴任途中",
+    "music": 0
+  },
+  {
+    "from": 714.38,
+    "to": 717.12,
+    "sid": 391,
+    "location": 2,
+    "content": "被刘洪李彪两个水贼谋财害命了",
+    "music": 0
+  },
+  {
+    "from": 717.12,
+    "to": 719.34,
+    "sid": 392,
+    "location": 2,
+    "content": "刘宏还拿着陈光蕊的江州大印",
+    "music": 0
+  },
+  {
+    "from": 719.34,
+    "to": 721.5,
+    "sid": 393,
+    "location": 2,
+    "content": "带着英文娇大摇大摆去上任了",
+    "music": 0
+  },
+  {
+    "from": 721.5,
+    "to": 723.66,
+    "sid": 394,
+    "location": 2,
+    "content": "有身孕的英文娇陈天想自杀",
+    "music": 0
+  },
+  {
+    "from": 723.66,
+    "to": 725.46,
+    "sid": 395,
+    "location": 2,
+    "content": "又怕连累肚子里的孩子",
+    "music": 0
+  },
+  {
+    "from": 725.46,
+    "to": 726.72,
+    "sid": 396,
+    "location": 2,
+    "content": "只能忍受屈辱",
+    "music": 0
+  },
+  {
+    "from": 726.72,
+    "to": 727.8,
+    "sid": 397,
+    "location": 2,
+    "content": "生下唐僧后",
+    "music": 0
+  },
+  {
+    "from": 727.8,
+    "to": 729.72,
+    "sid": 398,
+    "location": 2,
+    "content": "就赶紧把唐僧放在摇篮中",
+    "music": 0
+  },
+  {
+    "from": 729.72,
+    "to": 730.62,
+    "sid": 399,
+    "location": 2,
+    "content": "咬破手指",
+    "music": 0
+  },
+  {
+    "from": 730.62,
+    "to": 731.56,
+    "sid": 400,
+    "location": 2,
+    "content": "写下血书",
+    "music": 0
+  },
+  {
+    "from": 731.56,
+    "to": 733.36,
+    "sid": 401,
+    "location": 2,
+    "content": "让男子顺着小溪飘走了",
+    "music": 0
+  },
+  {
+    "from": 733.36,
+    "to": 736.46,
+    "sid": 402,
+    "location": 2,
+    "content": "后来唐僧被金山寺的法明长老捡到收养长大",
+    "music": 0
+  },
+  {
+    "from": 736.46,
+    "to": 737.57,
+    "sid": 403,
+    "location": 2,
+    "content": "取名为江流儿",
+    "music": 0
+  },
+  {
+    "from": 737.57,
+    "to": 740.21,
+    "sid": 404,
+    "location": 2,
+    "content": "玩家做主线时就会得到这封血书",
+    "music": 0
+  },
+  {
+    "from": 740.21,
+    "to": 742.18,
+    "sid": 405,
+    "location": 2,
+    "content": "要帮唐僧唤醒身世记忆",
+    "music": 0
+  },
+  {
+    "from": 742.18,
+    "to": 744.13,
+    "sid": 406,
+    "location": 2,
+    "content": "还要去杀刘宏和李彪报仇",
+    "music": 0
+  },
+  {
+    "from": 744.13,
+    "to": 747.22,
+    "sid": 407,
+    "location": 2,
+    "content": "在长安城的殷丞相府中和殷夫人对话",
+    "music": 0
+  },
+  {
+    "from": 747.22,
+    "to": 748.36,
+    "sid": 408,
+    "location": 2,
+    "content": "殷夫人会说",
+    "music": 0
+  },
+  {
+    "from": 748.36,
+    "to": 750.52,
+    "sid": 409,
+    "location": 2,
+    "content": "我女儿远嫁江州18年了",
+    "music": 0
+  },
+  {
+    "from": 750.52,
+    "to": 751.81,
+    "sid": 410,
+    "location": 2,
+    "content": "也没个书信回来",
+    "music": 0
+  },
+  {
+    "from": 751.81,
+    "to": 754.18,
+    "sid": 411,
+    "location": 2,
+    "content": "不过想来她应该过得很幸福吧",
+    "music": 0
+  },
+  {
+    "from": 754.18,
+    "to": 756.14,
+    "sid": 412,
+    "location": 2,
+    "content": "看着还挺让人心酸的",
+    "music": 0
+  },
+  {
+    "from": 756.14,
+    "to": 758.39,
+    "sid": 413,
+    "location": 2,
+    "content": "西游记里的一个个主线情节",
+    "music": 0
+  },
+  {
+    "from": 758.39,
+    "to": 761.38,
+    "sid": 414,
+    "location": 2,
+    "content": "这都是以副本或其他形式做到了游戏里",
+    "music": 0
+  },
+  {
+    "from": 761.38,
+    "to": 763.72,
+    "sid": 415,
+    "location": 2,
+    "content": "例如车迟国原著是师徒四人",
+    "music": 0
+  },
+  {
+    "from": 763.72,
+    "to": 766.21,
+    "sid": 416,
+    "location": 2,
+    "content": "到车迟国发现这里独尊道教",
+    "music": 0
+  },
+  {
+    "from": 766.21,
+    "to": 767.59,
+    "sid": 417,
+    "location": 2,
+    "content": "佛教徒都是苦役",
+    "music": 0
+  },
+  {
+    "from": 767.59,
+    "to": 770.46,
+    "sid": 418,
+    "location": 2,
+    "content": "晚上悟空三人跑了三星店吃贡品",
+    "music": 0
+  },
+  {
+    "from": 770.46,
+    "to": 771.24,
+    "sid": 419,
+    "location": 2,
+    "content": "被发现了",
+    "music": 0
+  },
+  {
+    "from": 771.24,
+    "to": 772.38,
+    "sid": 420,
+    "location": 2,
+    "content": "开始假扮三清",
+    "music": 0
+  },
+  {
+    "from": 772.38,
+    "to": 773.88,
+    "sid": 421,
+    "location": 2,
+    "content": "悟空还尿尿给国师",
+    "music": 0
+  },
+  {
+    "from": 773.88,
+    "to": 774.82,
+    "sid": 422,
+    "location": 2,
+    "content": "说是仙丹",
+    "music": 0
+  },
+  {
+    "from": 774.82,
+    "to": 776.92,
+    "sid": 423,
+    "location": 2,
+    "content": "国师发现受骗后怒打三人",
+    "music": 0
+  },
+  {
+    "from": 776.92,
+    "to": 779.48,
+    "sid": 424,
+    "location": 2,
+    "content": "第二天就开始了车迟国斗法环节",
+    "music": 0
+  },
+  {
+    "from": 779.48,
+    "to": 782.48,
+    "sid": 425,
+    "location": 2,
+    "content": "先后比了祈雨坐禅隔板猜物小说",
+    "music": 0
+  },
+  {
+    "from": 782.48,
+    "to": 784.64,
+    "sid": 426,
+    "location": 2,
+    "content": "我看电视剧最喜欢看的就是这一集",
+    "music": 0
+  },
+  {
+    "from": 784.64,
+    "to": 785.76,
+    "sid": 427,
+    "location": 2,
+    "content": "觉得很有意思",
+    "music": 0
+  },
+  {
+    "from": 785.76,
+    "to": 788.1,
+    "sid": 428,
+    "location": 2,
+    "content": "而在梦幻的车时斗法副本中",
+    "music": 0
+  },
+  {
+    "from": 788.1,
+    "to": 790.92,
+    "sid": 429,
+    "location": 2,
+    "content": "我们得帮那些被奴役的和尚修建道观",
+    "music": 0
+  },
+  {
+    "from": 790.92,
+    "to": 792.34,
+    "sid": 430,
+    "location": 2,
+    "content": "道观建好后",
+    "music": 0
+  },
+  {
+    "from": 792.34,
+    "to": 794.92,
+    "sid": 431,
+    "location": 2,
+    "content": "现场又会出现很多泡泡一样的贡品",
+    "music": 0
+  },
+  {
+    "from": 794.92,
+    "to": 796.78,
+    "sid": 432,
+    "location": 2,
+    "content": "要迅速解决掉这些贡品",
+    "music": 0
+  },
+  {
+    "from": 796.78,
+    "to": 798.04,
+    "sid": 433,
+    "location": 2,
+    "content": "才能与太上老君",
+    "music": 0
+  },
+  {
+    "from": 798.04,
+    "to": 798.82,
+    "sid": 434,
+    "location": 2,
+    "content": "灵宝天尊",
+    "music": 0
+  },
+  {
+    "from": 798.82,
+    "to": 800.71,
+    "sid": 435,
+    "location": 2,
+    "content": "元始天尊三座雕像战斗",
+    "music": 0
+  },
+  {
+    "from": 800.71,
+    "to": 803.23,
+    "sid": 436,
+    "location": 2,
+    "content": "下一个环节就是随机给你安排一个斗法",
+    "music": 0
+  },
+  {
+    "from": 803.23,
+    "to": 806.56,
+    "sid": 437,
+    "location": 2,
+    "content": "乔羽就是去打败风仆雨师雷公坐禅",
+    "music": 0
+  },
+  {
+    "from": 806.56,
+    "to": 808.88,
+    "sid": 438,
+    "location": 2,
+    "content": "要打败名为你不动我不动的npc",
+    "music": 0
+  },
+  {
+    "from": 808.88,
+    "to": 812.12,
+    "sid": 439,
+    "location": 2,
+    "content": "猜物要打败大猜猜小猜猜之类npc",
+    "music": 0
+  },
+  {
+    "from": 812.12,
+    "to": 813.26,
+    "sid": 440,
+    "location": 2,
+    "content": "获得谜语提示",
+    "music": 0
+  },
+  {
+    "from": 813.26,
+    "to": 814.31,
+    "sid": 441,
+    "location": 2,
+    "content": "以猜出物品名",
+    "music": 0
+  },
+  {
+    "from": 814.31,
+    "to": 816.74,
+    "sid": 442,
+    "location": 2,
+    "content": "其实这个副本战斗环节都挺简单的",
+    "music": 0
+  },
+  {
+    "from": 816.74,
+    "to": 819.14,
+    "sid": 443,
+    "location": 2,
+    "content": "最麻烦的反而是剑道观那一部",
+    "music": 0
+  },
+  {
+    "from": 819.14,
+    "to": 821.06,
+    "sid": 444,
+    "location": 2,
+    "content": "只有回答道士出的题材",
+    "music": 0
+  },
+  {
+    "from": 821.06,
+    "to": 822.5,
+    "sid": 445,
+    "location": 2,
+    "content": "才能得到所需的木材",
+    "music": 0
+  },
+  {
+    "from": 822.5,
+    "to": 825.59,
+    "sid": 446,
+    "location": 2,
+    "content": "这些题目需要掌握非常硬核的国学知识",
+    "music": 0
+  },
+  {
+    "from": 825.59,
+    "to": 828.58,
+    "sid": 447,
+    "location": 2,
+    "content": "比如黄庭坚的欲问江南近消息",
+    "music": 0
+  },
+  {
+    "from": 828.58,
+    "to": 831.16,
+    "sid": 448,
+    "location": 2,
+    "content": "喜君以我一枝春中的一枝春",
+    "music": 0
+  },
+  {
+    "from": 831.16,
+    "to": 835.47,
+    "sid": 449,
+    "location": 2,
+    "content": "指的是中国第一部完整的药物学著作是什么",
+    "music": 0
+  },
+  {
+    "from": 835.47,
+    "to": 838.18,
+    "sid": 450,
+    "location": 2,
+    "content": "药酒是在哪个朝代之后出现的",
+    "music": 0
+  },
+  {
+    "from": 838.18,
+    "to": 841.12,
+    "sid": 451,
+    "location": 2,
+    "content": "五谷中的书是指对于我这种素质",
+    "music": 0
+  },
+  {
+    "from": 841.12,
+    "to": 842.89,
+    "sid": 452,
+    "location": 2,
+    "content": "品味修养都很低的玩家来说",
+    "music": 0
+  },
+  {
+    "from": 842.89,
+    "to": 844.2,
+    "sid": 453,
+    "location": 2,
+    "content": "只能去网上查答案",
+    "music": 0
+  },
+  {
+    "from": 844.2,
+    "to": 846.3,
+    "sid": 454,
+    "location": 2,
+    "content": "然后当你把这种副本做个十次",
+    "music": 0
+  },
+  {
+    "from": 846.3,
+    "to": 847.98,
+    "sid": 455,
+    "location": 2,
+    "content": "100次你就都会背了",
+    "music": 0
+  },
+  {
+    "from": 847.98,
+    "to": 850.66,
+    "sid": 456,
+    "location": 2,
+    "content": "然后就莫名其妙掌握了很多高雅的知识",
+    "music": 0
+  },
+  {
+    "from": 850.66,
+    "to": 851.5,
+    "sid": 457,
+    "location": 2,
+    "content": "类似的活动",
+    "music": 0
+  },
+  {
+    "from": 851.5,
+    "to": 852.52,
+    "sid": 458,
+    "location": 2,
+    "content": "还有科举大赛",
+    "music": 0
+  },
+  {
+    "from": 852.52,
+    "to": 853.18,
+    "sid": 459,
+    "location": 2,
+    "content": "金刀洞",
+    "music": 0
+  },
+  {
+    "from": 853.18,
+    "to": 854.68,
+    "sid": 460,
+    "location": 2,
+    "content": "元宵节猜灯谜等等",
+    "music": 0
+  },
+  {
+    "from": 854.68,
+    "to": 855.76,
+    "sid": 461,
+    "location": 2,
+    "content": "梦幻的文化属性",
+    "music": 0
+  },
+  {
+    "from": 855.76,
+    "to": 857.08,
+    "sid": 462,
+    "location": 2,
+    "content": "至始至终都很传统",
+    "music": 0
+  },
+  {
+    "from": 857.08,
+    "to": 858.58,
+    "sid": 463,
+    "location": 2,
+    "content": "除了帮玩家掌握知识",
+    "music": 0
+  },
+  {
+    "from": 858.58,
+    "to": 861.24,
+    "sid": 464,
+    "location": 2,
+    "content": "从招式到物品到npc的各种命名",
+    "music": 0
+  },
+  {
+    "from": 861.24,
+    "to": 864.24,
+    "sid": 465,
+    "location": 2,
+    "content": "也几乎时时刻刻都在帮玩家认识生僻字",
+    "music": 0
+  },
+  {
+    "from": 864.24,
+    "to": 865.32,
+    "sid": 466,
+    "location": 2,
+    "content": "举几个例子",
+    "music": 0
+  },
+  {
+    "from": 865.32,
+    "to": 868.5,
+    "sid": 467,
+    "location": 2,
+    "content": "绝魂灵水晶葵茂须弥",
+    "music": 0
+  },
+  {
+    "from": 868.5,
+    "to": 870.35,
+    "sid": 468,
+    "location": 2,
+    "content": "维摩诘求髯客",
+    "music": 0
+  },
+  {
+    "from": 870.35,
+    "to": 871.7,
+    "sid": 469,
+    "location": 2,
+    "content": "但我这样的仗义",
+    "music": 0
+  },
+  {
+    "from": 871.7,
+    "to": 874.36,
+    "sid": 470,
+    "location": 2,
+    "content": "从小到大都把绝魂凝练成了摄魂铃",
+    "music": 0
+  },
+  {
+    "from": 874.36,
+    "to": 875.62,
+    "sid": 471,
+    "location": 2,
+    "content": "不过根据我的观察",
+    "music": 0
+  },
+  {
+    "from": 875.62,
+    "to": 877.27,
+    "sid": 472,
+    "location": 2,
+    "content": "这种现象还挺普遍的",
+    "music": 0
+  },
+  {
+    "from": 877.27,
+    "to": 879.26,
+    "sid": 473,
+    "location": 2,
+    "content": "也有可能是大家都在故意玩梗",
+    "music": 0
+  },
+  {
+    "from": 879.26,
+    "to": 879.98,
+    "sid": 474,
+    "location": 2,
+    "content": "举个例子",
+    "music": 0
+  },
+  {
+    "from": 879.98,
+    "to": 883.46,
+    "sid": 475,
+    "location": 2,
+    "content": "须弥真言在游戏中是一个很强的法系技能",
+    "music": 0
+  },
+  {
+    "from": 883.46,
+    "to": 884.48,
+    "sid": 476,
+    "location": 2,
+    "content": "组队必带",
+    "music": 0
+  },
+  {
+    "from": 884.48,
+    "to": 885.77,
+    "sid": 477,
+    "location": 2,
+    "content": "但组队的地区",
+    "music": 0
+  },
+  {
+    "from": 885.77,
+    "to": 888.36,
+    "sid": 478,
+    "location": 2,
+    "content": "大家的喊话基本都是虚拟加加加加",
+    "music": 0
+  },
+  {
+    "from": 888.36,
+    "to": 890.73,
+    "sid": 479,
+    "location": 2,
+    "content": "还有个日常玩法叫维摩诘经变",
+    "music": 0
+  },
+  {
+    "from": 890.73,
+    "to": 893.74,
+    "sid": 480,
+    "location": 2,
+    "content": "这本来是莫高窟中很重要的经变图啊",
+    "music": 0
+  },
+  {
+    "from": 893.74,
+    "to": 896.32,
+    "sid": 481,
+    "location": 2,
+    "content": "梦幻也曾与敦煌进行过文化联动",
+    "music": 0
+  },
+  {
+    "from": 896.32,
+    "to": 898.66,
+    "sid": 482,
+    "location": 2,
+    "content": "这个玩法文化底蕴色彩挺强的",
+    "music": 0
+  },
+  {
+    "from": 898.66,
+    "to": 901.7,
+    "sid": 483,
+    "location": 2,
+    "content": "但很多人组队时喊的是鸠摩智加加加加",
+    "music": 0
+  },
+  {
+    "from": 901.7,
+    "to": 904.01,
+    "sid": 484,
+    "location": 2,
+    "content": "更离谱的是喊萨摩耶加加加加",
+    "music": 0
+  },
+  {
+    "from": 904.01,
+    "to": 905.72,
+    "sid": 485,
+    "location": 2,
+    "content": "你问梦幻精灵萨摩耶",
+    "music": 0
+  },
+  {
+    "from": 905.72,
+    "to": 907.1,
+    "sid": 486,
+    "location": 2,
+    "content": "他还会提前预判",
+    "music": 0
+  },
+  {
+    "from": 907.1,
+    "to": 909.44,
+    "sid": 487,
+    "location": 2,
+    "content": "给你提供维摩诘经变的任务指引",
+    "music": 0
+  },
+  {
+    "from": 909.44,
+    "to": 911.6,
+    "sid": 488,
+    "location": 2,
+    "content": "我见过最离谱的是喊话消磨图",
+    "music": 0
+  },
+  {
+    "from": 911.6,
+    "to": 913.34,
+    "sid": 489,
+    "location": 2,
+    "content": "加加加加上车发淤泥",
+    "music": 0
+  },
+  {
+    "from": 913.34,
+    "to": 915.13,
+    "sid": 490,
+    "location": 2,
+    "content": "完全听不懂是什么意思啊",
+    "music": 0
+  },
+  {
+    "from": 915.13,
+    "to": 918.34,
+    "sid": 491,
+    "location": 2,
+    "content": "游戏外的梦幻也不遗余力地推广传统文化",
+    "music": 0
+  },
+  {
+    "from": 918.34,
+    "to": 919.96,
+    "sid": 492,
+    "location": 2,
+    "content": "比如他们b站官方号",
+    "music": 0
+  },
+  {
+    "from": 919.96,
+    "to": 922.15,
+    "sid": 493,
+    "location": 2,
+    "content": "有一堆视频都接近1000万播放",
+    "music": 0
+  },
+  {
+    "from": 922.15,
+    "to": 924.42,
+    "sid": 494,
+    "location": 2,
+    "content": "这些视频有很多都是门派歌曲",
+    "music": 0
+  },
+  {
+    "from": 924.42,
+    "to": 926.46,
+    "sid": 495,
+    "location": 2,
+    "content": "先买一些流行音乐的版权",
+    "music": 0
+  },
+  {
+    "from": 926.46,
+    "to": 927.9,
+    "sid": 496,
+    "location": 2,
+    "content": "这些歌可能很魔性",
+    "music": 0
+  },
+  {
+    "from": 927.9,
+    "to": 929.88,
+    "sid": 497,
+    "location": 2,
+    "content": "然后找一些实力派的歌手",
+    "music": 0
+  },
+  {
+    "from": 929.88,
+    "to": 932.64,
+    "sid": 498,
+    "location": 2,
+    "content": "加上非物质文化遗产的乐器来演奏",
+    "music": 0
+  },
+  {
+    "from": 932.64,
+    "to": 935.19,
+    "sid": 499,
+    "location": 2,
+    "content": "重新演绎这些看似已经烂大街的歌",
+    "music": 0
+  },
+  {
+    "from": 935.19,
+    "to": 936.54,
+    "sid": 500,
+    "location": 2,
+    "content": "搞出了全新的风味",
+    "music": 0
+  },
+  {
+    "from": 936.54,
+    "to": 937.88,
+    "sid": 501,
+    "location": 2,
+    "content": "很受b友们欢迎",
+    "music": 0
+  },
+  {
+    "from": 937.88,
+    "to": 940.61,
+    "sid": 502,
+    "location": 2,
+    "content": "比如大唐官府的门派歌曲是烈火战马",
+    "music": 0
+  },
+  {
+    "from": 940.61,
+    "to": 943.42,
+    "sid": 503,
+    "location": 2,
+    "content": "原唱是gay梦幻版是张韶涵唱的",
+    "music": 0
+  },
+  {
+    "from": 943.42,
+    "to": 944.56,
+    "sid": 504,
+    "location": 2,
+    "content": "背后的古典",
+    "music": 0
+  },
+  {
+    "from": 944.56,
+    "to": 946.6,
+    "sid": 505,
+    "location": 2,
+    "content": "又是用一种叫做剪桥骨的",
+    "music": 0
+  },
+  {
+    "from": 946.6,
+    "to": 949.96,
+    "sid": 506,
+    "location": 2,
+    "content": "非物质文化遗产演奏的",
+    "music": 0
+  },
+  {
+    "from": 950.48,
+    "to": 953.74,
+    "sid": 507,
+    "location": 2,
+    "content": "回想七尺风雪中归去",
+    "music": 0.9999999637681173
+  },
+  {
+    "from": 953.74,
+    "to": 954.97,
+    "sid": 508,
+    "location": 2,
+    "content": "遥遥数月",
+    "music": 0.9999999099099179
+  },
+  {
+    "from": 954.97,
+    "to": 958.48,
+    "sid": 509,
+    "location": 2,
+    "content": "似无情与八木的门派",
+    "music": 0.5022624207121056
+  },
+  {
+    "from": 958.48,
+    "to": 960.4,
+    "sid": 510,
+    "location": 2,
+    "content": "歌曲是最近被短视频带火的",
+    "music": 0
+  },
+  {
+    "from": 960.4,
+    "to": 961.28,
+    "sid": 511,
+    "location": 2,
+    "content": "万物起舞",
+    "music": 0
+  },
+  {
+    "from": 961.28,
+    "to": 963.14,
+    "sid": 512,
+    "location": 2,
+    "content": "但演唱者是袁娅维",
+    "music": 0
+  },
+  {
+    "from": 963.14,
+    "to": 966.48,
+    "sid": 513,
+    "location": 2,
+    "content": "音乐是用一种叫做中软的民族乐器演奏的",
+    "music": 0
+  },
+  {
+    "from": 966.48,
+    "to": 975.66,
+    "sid": 514,
+    "location": 2,
+    "content": "你说什么全部都是借口啊",
+    "music": 0.9999999645390084
+  },
+  {
+    "from": 975.88,
+    "to": 977.76,
+    "sid": 515,
+    "location": 2,
+    "content": "万物皆起舞",
+    "music": 0.9999999468085135
+  },
+  {
+    "from": 978.78,
+    "to": 981.22,
+    "sid": 516,
+    "location": 2,
+    "content": "旋逐渐归宿",
+    "music": 0.9999999553571449
+  },
+  {
+    "from": 981.38,
+    "to": 983.2,
+    "sid": 517,
+    "location": 2,
+    "content": "灵魂与归途",
+    "music": 0.999999940476194
+  },
+  {
+    "from": 984.28,
+    "to": 986.86,
+    "sid": 518,
+    "location": 2,
+    "content": "梦魇做孤独作毒",
+    "music": 0.9999999579831951
+  },
+  {
+    "from": 986.86,
+    "to": 990.16,
+    "sid": 519,
+    "location": 2,
+    "content": "我想在这些东西对于普通玩家来说",
+    "music": 0.3525179729310038
+  },
+  {
+    "from": 990.16,
+    "to": 991.39,
+    "sid": 520,
+    "location": 2,
+    "content": "确实很高大上",
+    "music": 0
+  },
+  {
+    "from": 991.39,
+    "to": 994.06,
+    "sid": 521,
+    "location": 2,
+    "content": "其实我觉得真正对文化传承有作用的",
+    "music": 0
+  },
+  {
+    "from": 994.06,
+    "to": 995.8,
+    "sid": 522,
+    "location": 2,
+    "content": "反而是各种很普通的设定",
+    "music": 0
+  },
+  {
+    "from": 995.8,
+    "to": 996.58,
+    "sid": 523,
+    "location": 2,
+    "content": "比如七夕",
+    "music": 0
+  },
+  {
+    "from": 996.58,
+    "to": 996.88,
+    "sid": 524,
+    "location": 2,
+    "content": "端午",
+    "music": 0
+  },
+  {
+    "from": 996.88,
+    "to": 997.9,
+    "sid": 525,
+    "location": 2,
+    "content": "中秋等节日",
+    "music": 0
+  },
+  {
+    "from": 997.9,
+    "to": 999.1,
+    "sid": 526,
+    "location": 2,
+    "content": "每到节日当天",
+    "music": 0
+  },
+  {
+    "from": 999.1,
+    "to": 1002.34,
+    "sid": 527,
+    "location": 2,
+    "content": "长安城有一个礼物使者会给所有玩家发放礼品",
+    "music": 0
+  },
+  {
+    "from": 1002.34,
+    "to": 1003.6,
+    "sid": 528,
+    "location": 2,
+    "content": "端午节可以做活动",
+    "music": 0
+  },
+  {
+    "from": 1003.6,
+    "to": 1004.29,
+    "sid": 529,
+    "location": 2,
+    "content": "包粽子",
+    "music": 0
+  },
+  {
+    "from": 1004.29,
+    "to": 1006.06,
+    "sid": 530,
+    "location": 2,
+    "content": "中秋节的活动可以得月饼",
+    "music": 0
+  },
+  {
+    "from": 1006.06,
+    "to": 1007.5,
+    "sid": 531,
+    "location": 2,
+    "content": "元宵节又可以得元宵",
+    "music": 0
+  },
+  {
+    "from": 1007.5,
+    "to": 1009.21,
+    "sid": 532,
+    "location": 2,
+    "content": "这些东西吃了能加属性",
+    "music": 0
+  },
+  {
+    "from": 1009.21,
+    "to": 1010.5,
+    "sid": 533,
+    "location": 2,
+    "content": "所以每到活动期间",
+    "music": 0
+  },
+  {
+    "from": 1010.5,
+    "to": 1011.73,
+    "sid": 534,
+    "location": 2,
+    "content": "游戏都热闹非凡",
+    "music": 0
+  },
+  {
+    "from": 1011.73,
+    "to": 1014.52,
+    "sid": 535,
+    "location": 2,
+    "content": "这种方式对文化传承当然是有用的",
+    "music": 0
+  },
+  {
+    "from": 1014.52,
+    "to": 1015.36,
+    "sid": 536,
+    "location": 2,
+    "content": "举个例子",
+    "music": 0
+  },
+  {
+    "from": 1015.36,
+    "to": 1018.4,
+    "sid": 537,
+    "location": 2,
+    "content": "我之前一直以为七夕节就是中国版的情人节",
+    "music": 0
+  },
+  {
+    "from": 1018.4,
+    "to": 1020.5,
+    "sid": 538,
+    "location": 2,
+    "content": "但游戏里的活动让我们去做什么",
+    "music": 0
+  },
+  {
+    "from": 1020.5,
+    "to": 1021.19,
+    "sid": 539,
+    "location": 2,
+    "content": "奇小果",
+    "music": 0
+  },
+  {
+    "from": 1021.19,
+    "to": 1022.72,
+    "sid": 540,
+    "location": 2,
+    "content": "这玩意让我觉得很奇怪",
+    "music": 0
+  },
+  {
+    "from": 1022.72,
+    "to": 1024.16,
+    "sid": 541,
+    "location": 2,
+    "content": "后来特地去查了一下",
+    "music": 0
+  },
+  {
+    "from": 1024.16,
+    "to": 1026.23,
+    "sid": 542,
+    "location": 2,
+    "content": "原来七七根本不是什么情人节",
+    "music": 0
+  },
+  {
+    "from": 1026.23,
+    "to": 1027.31,
+    "sid": 543,
+    "location": 2,
+    "content": "就是乞巧节",
+    "music": 0
+  },
+  {
+    "from": 1027.31,
+    "to": 1030.5,
+    "sid": 544,
+    "location": 2,
+    "content": "只是在近几十年被商家炒作成的情人节",
+    "music": 0
+  },
+  {
+    "from": 1030.5,
+    "to": 1032.78,
+    "sid": 545,
+    "location": 2,
+    "content": "而且现在各种节日味越来越淡了",
+    "music": 0
+  },
+  {
+    "from": 1032.78,
+    "to": 1035.63,
+    "sid": 546,
+    "location": 2,
+    "content": "用这种方式让传统节日和奖励挂钩",
+    "music": 0
+  },
+  {
+    "from": 1035.63,
+    "to": 1037.82,
+    "sid": 547,
+    "location": 2,
+    "content": "当然能给玩家带来很深刻的印象",
+    "music": 0
+  },
+  {
+    "from": 1037.82,
+    "to": 1039.339,
+    "sid": 548,
+    "location": 2,
+    "content": "还有长安城的bgm",
+    "music": 0
+  },
+  {
+    "from": 1039.339,
+    "to": 1040.479,
+    "sid": 549,
+    "location": 2,
+    "content": "作为小学生",
+    "music": 0
+  },
+  {
+    "from": 1040.479,
+    "to": 1043.329,
+    "sid": 550,
+    "location": 2,
+    "content": "刚开始听到这个bgm是压力很大的",
+    "music": 0
+  },
+  {
+    "from": 1043.329,
+    "to": 1045.2,
+    "sid": 551,
+    "location": 2,
+    "content": "意味着要充点卡才能玩的",
+    "music": 0
+  },
+  {
+    "from": 1045.2,
+    "to": 1046.97,
+    "sid": 552,
+    "location": 2,
+    "content": "结果07年的除夕",
+    "music": 0
+  },
+  {
+    "from": 1046.97,
+    "to": 1048.32,
+    "sid": 553,
+    "location": 2,
+    "content": "我在家一边守岁",
+    "music": 0
+  },
+  {
+    "from": 1048.32,
+    "to": 1049.16,
+    "sid": 554,
+    "location": 2,
+    "content": "一边玩梦幻",
+    "music": 0
+  },
+  {
+    "from": 1049.16,
+    "to": 1050.24,
+    "sid": 555,
+    "location": 2,
+    "content": "就待在长安",
+    "music": 0
+  },
+  {
+    "from": 1050.24,
+    "to": 1051.92,
+    "sid": 556,
+    "location": 2,
+    "content": "反而觉得异常的热闹",
+    "music": 0
+  },
+  {
+    "from": 1051.92,
+    "to": 1053.18,
+    "sid": 557,
+    "location": 2,
+    "content": "大家有的在摆摊",
+    "music": 0
+  },
+  {
+    "from": 1053.18,
+    "to": 1054.62,
+    "sid": 558,
+    "location": 2,
+    "content": "有的在擂台上pk",
+    "music": 0
+  },
+  {
+    "from": 1054.62,
+    "to": 1056.38,
+    "sid": 559,
+    "location": 2,
+    "content": "更多的人在做新年活动",
+    "music": 0
+  },
+  {
+    "from": 1056.38,
+    "to": 1059.41,
+    "sid": 560,
+    "location": 2,
+    "content": "但1~0点满屏幕都刷起了新年快乐",
+    "music": 0
+  },
+  {
+    "from": 1059.41,
+    "to": 1061.56,
+    "sid": 561,
+    "location": 2,
+    "content": "再配着长安这个喜庆的bgm",
+    "music": 0
+  },
+  {
+    "from": 1061.56,
+    "to": 1063.66,
+    "sid": 562,
+    "location": 2,
+    "content": "那一刻给人感觉你就在大堂",
+    "music": 0
+  },
+  {
+    "from": 1063.66,
+    "to": 1064.5,
+    "sid": 563,
+    "location": 2,
+    "content": "就在长安",
+    "music": 0
+  },
+  {
+    "from": 1064.5,
+    "to": 1067.26,
+    "sid": 564,
+    "location": 2,
+    "content": "我的文化启蒙几乎全部都来自于游戏",
+    "music": 0
+  },
+  {
+    "from": 1067.26,
+    "to": 1069.21,
+    "sid": 565,
+    "location": 2,
+    "content": "所以真不是传统文化没吸引力",
+    "music": 0
+  },
+  {
+    "from": 1069.21,
+    "to": 1070.71,
+    "sid": 566,
+    "location": 2,
+    "content": "只是灌输形式错了",
+    "music": 0
+  },
+  {
+    "from": 1070.71,
+    "to": 1073.38,
+    "sid": 567,
+    "location": 2,
+    "content": "估计大部分人对皮影戏根本不感兴趣",
+    "music": 0
+  },
+  {
+    "from": 1073.38,
+    "to": 1076.68,
+    "sid": 568,
+    "location": 2,
+    "content": "但如果看到古剑三的皮影戏关卡都会被惊艳到",
+    "music": 0
+  },
+  {
+    "from": 1076.68,
+    "to": 1078.06,
+    "sid": 569,
+    "location": 2,
+    "content": "说不定就产生兴趣了",
+    "music": 0
+  },
+  {
+    "from": 1078.06,
+    "to": 1079.08,
+    "sid": 570,
+    "location": 2,
+    "content": "梦幻前阵子",
+    "music": 0
+  },
+  {
+    "from": 1079.08,
+    "to": 1081.6,
+    "sid": 571,
+    "location": 2,
+    "content": "同时在线也创了272万的新高",
+    "music": 0
+  },
+  {
+    "from": 1081.6,
+    "to": 1083.04,
+    "sid": 572,
+    "location": 2,
+    "content": "游戏本身的交互性",
+    "music": 0
+  },
+  {
+    "from": 1083.04,
+    "to": 1084.9,
+    "sid": 573,
+    "location": 2,
+    "content": "趣味性能够广泛吸引玩家",
+    "music": 0
+  },
+  {
+    "from": 1084.9,
+    "to": 1086.88,
+    "sid": 574,
+    "location": 2,
+    "content": "而某些曲高和寡的传统文化",
+    "music": 0
+  },
+  {
+    "from": 1086.88,
+    "to": 1089.52,
+    "sid": 575,
+    "location": 2,
+    "content": "也可以通过游戏这个载体传递给更多人",
+    "music": 0
+  },
+  {
+    "from": 1089.52,
+    "to": 1092.28,
+    "sid": 576,
+    "location": 2,
+    "content": "电子游戏与传统文化不仅不是对立的",
+    "music": 0
+  },
+  {
+    "from": 1092.28,
+    "to": 1094.62,
+    "sid": 577,
+    "location": 2,
+    "content": "反而是传承传统文化最好的媒介",
+    "music": 0
+  },
+  {
+    "from": 1094.62,
+    "to": 1095.52,
+    "sid": 578,
+    "location": 2,
+    "content": "作为玩家",
+    "music": 0
+  },
+  {
+    "from": 1095.52,
+    "to": 1097.05,
+    "sid": 579,
+    "location": 2,
+    "content": "我在天际省屠过龙",
+    "music": 0
+  },
+  {
+    "from": 1097.05,
+    "to": 1098.68,
+    "sid": 580,
+    "location": 2,
+    "content": "也在凯尔莫罕打过牌",
+    "music": 0
+  },
+  {
+    "from": 1098.68,
+    "to": 1101.23,
+    "sid": 581,
+    "location": 2,
+    "content": "在巴黎圣母院的墙壁上飞檐走壁",
+    "music": 0
+  },
+  {
+    "from": 1101.23,
+    "to": 1102.97,
+    "sid": 582,
+    "location": 2,
+    "content": "也抢过洛圣都的银行",
+    "music": 0
+  },
+  {
+    "from": 1102.97,
+    "to": 1105.24,
+    "sid": 583,
+    "location": 2,
+    "content": "在交界地与强大的敌人抗衡",
+    "music": 0
+  },
+  {
+    "from": 1105.24,
+    "to": 1107.52,
+    "sid": 584,
+    "location": 2,
+    "content": "也在北欧神话中大杀四方",
+    "music": 0
+  },
+  {
+    "from": 1107.52,
+    "to": 1109.02,
+    "sid": 585,
+    "location": 2,
+    "content": "但我始终期待着",
+    "music": 0
+  },
+  {
+    "from": 1109.02,
+    "to": 1111.12,
+    "sid": 586,
+    "location": 2,
+    "content": "那份属于我们自己文化的可能性",
+    "music": 0
+  }
+]
